@@ -3795,6 +3795,7 @@ button.close{
     width:100%;
     margin-bottom:1%
 }
+
 @media (min-width:768px){
     .grid-item,.grid-sizer{
         width:49.5%
@@ -3810,7 +3811,7 @@ button.close{
 }
 .grid-item{
     position:relative;
-    display:block
+    display:block;
 }
 .grid-item .project-description{
     opacity:0;
@@ -3845,8 +3846,9 @@ button.close{
     padding:0
 }
 .grid-item:hover .project-description{
-    opacity:1
+    opacity:1;
 }
+
 .section-container-spacer{
     margin-bottom:30px
 }
