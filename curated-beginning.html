@@ -25,47 +25,8 @@
 <body>
 
 <!-- Add your content of header -->
-<header class="">
-  <div class="navbar navbar-default visible-xs">
-    <button type="button" class="navbar-toggle collapsed">
-      <span class="sr-only">Toggle navigation</span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-    <a href="./index.html" class="navbar-brand">Sara Laudeman</a>
-  </div>
+<div id="sidebar-container"></div>
 
-  <nav class="sidebar">
-    <div class="navbar-collapse" id="navbar-collapse">
-      <div class="site-header hidden-xs">
-          <a class="site-brand" href="./index.html" title="">
-            Sara Laudeman, AIA
-          </a>
-        <p>LEED Green Associate <br />M. Architecture
-		<br /> B.A. Architecture
-		<br /> B.S. Mathematics</p>
-      </div>
-      <ul class="nav">
-        <li><a href="./index.html" title="">Home</a></li>
-		<li><a href="./professional-work.html" title="">Professional</a></li>
-		<li><a href="./academic-work.html" title="">Academic</a></li>
-        <li><a href="./about.html" title="">About</a></li>
-        <li><a href="./portfolio.html" title="">Portfolio</a></li>
-        <li><a href="./contact.html" title="">Contact</a></li>
-      </ul>
-
-      <nav class="nav-footer">
-        <p class="nav-footer-social-buttons">
-		  <a class="fa-icon" href="https://www.linkedin.com/in/sara-laudeman-3523a2161">
-            <i class="fa fa-linkedin"></i>
-          </a>
-        </p>
-        <p>© Sara Laudeman | Website created with Mashup Template</a>
-	  </nav>  
-    </div> 
-  </nav>
-</header>
 <main class="" id="main-collapse">
 
 <!-- Add your site or app content here -->
@@ -130,6 +91,28 @@
 </script>
 
 </main>
+
+<script>
+fetch('sidebar.html')
+	.then(res => res.text())
+	.then(html => {
+	document.getElementById('sidebar-container').innerHTML = html;
+	})
+	.then(() => {
+	// Optionally, re-initialize any JS that applies to elements in the sidebar
+	if (typeof initializeSidebar === 'function') {
+		initializeSidebar();
+	}
+});
+
+function initializeSidebar() {
+  document.querySelector('.navbar-toggle')?.addEventListener('click', function () {
+    document.getElementById('navbar-collapse')?.classList.toggle('open');
+  });
+}
+
+initializeSidebar();
+</script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function (event) {
