@@ -130,6 +130,28 @@
 </main>
 
 <script>
+fetch('sidebar.html')
+	.then(res => res.text())
+	.then(html => {
+	document.getElementById('sidebar-container').innerHTML = html;
+	})
+	.then(() => {
+	// Optionally, re-initialize any JS that applies to elements in the sidebar
+	if (typeof initializeSidebar === 'function') {
+		initializeSidebar();
+	}
+});
+
+function initializeSidebar() {
+  document.querySelector('.navbar-toggle')?.addEventListener('click', function () {
+    document.getElementById('navbar-collapse')?.classList.toggle('open');
+  });
+}
+
+initializeSidebar();
+</script>
+
+<script>
 document.addEventListener("DOMContentLoaded", function (event) {
   navbarToggleSidebar();
   navActivePage();
