@@ -6,8 +6,7 @@
     ],
     "def": [
       "university, college",
-      "university, college",
-      " a place of advanced learning"
+      "a place of advanced learning"
     ]
   },
   "aetasha": {
@@ -16,7 +15,6 @@
       "eːytɔːʃɔː"
     ],
     "def": [
-      "study",
       "To study, as an advanced pursuit (distinct from to learn)"
     ]
   },
@@ -26,10 +24,9 @@
       "eːyθrɔː"
     ],
     "def": [
-      "desire, want, or crave",
       "to desire or crave",
-      " to want, in an immediate sense",
-      " to need"
+      "to want, in an immediate sense",
+      "to need"
     ]
   },
   "aethrán": {
@@ -38,9 +35,8 @@
       "eːyθran"
     ],
     "def": [
-      "desire, craving, want",
       "desire or craving",
-      " a want or a need"
+      "a want or a need"
     ]
   },
   "aetirn": {
@@ -48,10 +44,7 @@
     "ipa": [
       "eːytirn"
     ],
-    "def": [
-      "always",
-      ""
-    ]
+    "def": "always"
   },
   "afcha": {
     "pos": "verb",
@@ -59,7 +52,6 @@
       "æfxɔː"
     ],
     "def": [
-      "eat",
       "to eat"
     ]
   },
@@ -69,7 +61,6 @@
       "æɪdɔː"
     ],
     "def": [
-      "shine",
       "to shine, specifically as a star"
     ]
   },
@@ -79,7 +70,6 @@
       "æɪdɔːl"
     ],
     "def": [
-      "star",
       "star, celestial object"
     ]
   },
@@ -88,10 +78,7 @@
     "ipa": [
       "æɪgrɔːn"
     ],
-    "def": [
-      "truth",
-      ""
-    ]
+    "def": "truth"
   },
   "ailos": {
     "pos": "noun",
@@ -100,8 +87,7 @@
     ],
     "def": [
       "second-in-command",
-      "second-in-command",
-      " a person or idea standing in support of"
+      "a person or idea standing in support of"
     ]
   },
   "ailosi": {
@@ -110,9 +96,8 @@
       "æɪlɒ̞ʃi"
     ],
     "def": [
-      "second",
       "to second as a motion, idea, or person",
-      " to stand in support of"
+      "to stand in support of"
     ]
   },
   "ainsa": {
@@ -121,7 +106,6 @@
       "æɪnsɔː"
     ],
     "def": [
-      "speak",
       "to speak, to present, or to share information verbally"
     ]
   },
@@ -131,9 +115,8 @@
       "æɪnsɔːl"
     ],
     "def": [
-      "word",
       "a word, written or spoken",
-      " a fixed ideal of an idea i.e. the word of the Court."
+      "a fixed ideal of an idea i.e. the word of the Court."
     ]
   },
   "ainsan": {
@@ -141,10 +124,7 @@
     "ipa": [
       "æɪnsɔːn"
     ],
-    "def": [
-      "title",
-      ""
-    ]
+    "def": "title"
   },
   "ainsana": {
     "pos": "verb",
@@ -152,9 +132,8 @@
       "æɪnsɔːnɔː"
     ],
     "def": [
-      "title",
       "to give a title to, to name",
-      " to deem something worthwhile (col)"
+      "to deem something worthwhile (col)"
     ]
   },
   "ainsar": {
@@ -163,7 +142,6 @@
       "æɪnsɔːʀ"
     ],
     "def": [
-      "speech, talk, presentation",
       "a formal speech, talk, or presentation"
     ]
   },
@@ -173,9 +151,8 @@
       "æɪnsɔːv"
     ],
     "def": [
-      "engraving",
       "engraving or etching",
-      " words or symbols with meaning carved into something permenantly"
+      "words or symbols with meaning carved into something permenantly"
     ]
   },
   "ainsavi": {
@@ -184,10 +161,9 @@
       "æɪnsɔːvi"
     ],
     "def": [
-      "engrave",
       "to engrave or etch",
-      " to set down meaning with the intention of it being permanent",
-      " to preserve meaning"
+      "to set down meaning with the intention of it being permanent",
+      "to preserve meaning"
     ]
   },
   "aisa": {
@@ -196,7 +172,6 @@
       "æɪʃɔː"
     ],
     "def": [
-      "remain",
       "to remain"
     ]
   },
@@ -206,7 +181,6 @@
       "æɪʃɔːt"
     ],
     "def": [
-      "remain",
       "remain, leftover, leaving"
     ]
   },
@@ -216,10 +190,9 @@
       "æɪʃtrɔːɪv"
     ],
     "def": [
-      "hidden meaning",
       "a hidden meaning or second meaning",
-      " an idiom or metaphor",
-      " an underlying piece of information"
+      "an idiom or metaphor",
+      "an underlying piece of information"
     ]
   },
   "aistrovi": {
@@ -228,9 +201,8 @@
       "æɪʃtrɒvi"
     ],
     "def": [
-      "to encode",
       "to encode or embed (as meaning)",
-      " to subvert"
+      "to subvert"
     ]
   },
   "aiströch": {
@@ -238,10 +210,7 @@
     "ipa": [
       "æɪʃtroʊx"
     ],
-    "def": [
-      "desolation, destruction",
-      ""
-    ]
+    "def": "desolation, destruction"
   },
   "aistvharkol": {
     "pos": "noun",
@@ -249,7 +218,6 @@
       "æɪʃtⱱɔːrkɒl"
     ],
     "def": [
-      "Old Tongue",
       "the proper name for the language commonly referred to as the Old Tongue."
     ]
   },
@@ -258,30 +226,21 @@
     "ipa": [
       "æɪt"
     ],
-    "def": [
-      "to",
-      ""
-    ]
+    "def": "to"
   },
   "ak": {
     "pos": "preposition",
     "ipa": [
       "æk"
     ],
-    "def": [
-      "by",
-      ""
-    ]
+    "def": "by"
   },
   "akaivh'id": {
     "pos": "noun",
     "ipa": [
       "ækɔːɪⱱ'id"
     ],
-    "def": [
-      "perfection",
-      ""
-    ]
+    "def": "perfection"
   },
   "akar": {
     "pos": "noun",
@@ -290,8 +249,7 @@
     ],
     "def": [
       "flight",
-      "flight",
-      " something in the act of being done"
+      "something in the act of being done"
     ]
   },
   "akara": {
@@ -300,7 +258,6 @@
       "ækɔːrɔː"
     ],
     "def": [
-      "fly",
       "to fly"
     ]
   },
@@ -311,8 +268,7 @@
     ],
     "def": [
       "arrow",
-      "arrow",
-      " something linear, a pointed line"
+      "something linear, a pointed line"
     ]
   },
   "aldreva": {
@@ -321,7 +277,6 @@
       "ældreːvɔː"
     ],
     "def": [
-      "cultivate",
       "to cultivate"
     ]
   },
@@ -330,20 +285,14 @@
     "ipa": [
       "ældreːvɔːɪið"
     ],
-    "def": [
-      "crop",
-      ""
-    ]
+    "def": "crop"
   },
   "alfasz": {
     "pos": "noun",
     "ipa": [
       "ælfɔːɮ"
     ],
-    "def": [
-      "sand",
-      ""
-    ]
+    "def": "sand"
   },
   "alfaszi": {
     "pos": "verb",
@@ -351,9 +300,8 @@
       "ælfɔːɮi"
     ],
     "def": [
-      "sand or wear away",
       "to sand, to wear away",
-      " to erode"
+      "to erode"
     ]
   },
   "aln": {
@@ -361,20 +309,14 @@
     "ipa": [
       "æln"
     ],
-    "def": [
-      "tree",
-      ""
-    ]
+    "def": "tree"
   },
   "alvaidh": {
     "pos": "noun",
     "ipa": [
       "ælvɔːɪið"
     ],
-    "def": [
-      "purpose",
-      ""
-    ]
+    "def": "purpose"
   },
   "alvari": {
     "pos": "verb",
@@ -382,7 +324,6 @@
       "ælvɔːri"
     ],
     "def": [
-      "command",
       "to command, to order"
     ]
   },
@@ -391,10 +332,7 @@
     "ipa": [
       "ælvɔːrɪn"
     ],
-    "def": [
-      "command",
-      ""
-    ]
+    "def": "command"
   },
   "amirni": {
     "pos": "verb",
@@ -402,7 +340,6 @@
       "æmirni"
     ],
     "def": [
-      "remember",
       "to remember"
     ]
   },
@@ -412,7 +349,6 @@
       "æmiʃt"
     ],
     "def": [
-      "when",
       "when (derived from uncertain-now)"
     ]
   },
@@ -421,40 +357,28 @@
     "ipa": [
       "æmniʃ"
     ],
-    "def": [
-      "snake",
-      ""
-    ]
+    "def": "snake"
   },
   "amural": {
     "pos": "noun",
     "ipa": [
       "æmurɔːl"
     ],
-    "def": [
-      "desert",
-      ""
-    ]
+    "def": "desert"
   },
   "ankar": {
     "pos": "noun",
     "ipa": [
       "ænkɔːʀ"
     ],
-    "def": [
-      "wing",
-      ""
-    ]
+    "def": "wing"
   },
   "antraidh": {
     "pos": "noun",
     "ipa": [
       "æntrɔːɪið"
     ],
-    "def": [
-      "grief",
-      ""
-    ]
+    "def": "grief"
   },
   "antraidha": {
     "pos": "verb",
@@ -462,7 +386,6 @@
       "æntrɔːɪiðɔː"
     ],
     "def": [
-      "grieve",
       "to grieve"
     ]
   },
@@ -471,10 +394,7 @@
     "ipa": [
       "ænvɔːɪt"
     ],
-    "def": [
-      "unreachable",
-      ""
-    ]
+    "def": "unreachable"
   },
   "aoi": {
     "pos": "verb",
@@ -482,7 +402,6 @@
       "æɒi"
     ],
     "def": [
-      "age",
       "to age"
     ]
   },
@@ -492,7 +411,6 @@
       "æɒiv"
     ],
     "def": [
-      "age",
       "age, as in years"
     ]
   },
@@ -502,7 +420,6 @@
       "ærɔː"
     ],
     "def": [
-      "do",
       "to do"
     ]
   },
@@ -511,10 +428,7 @@
     "ipa": [
       "ærðɒn"
     ],
-    "def": [
-      "above",
-      ""
-    ]
+    "def": "above"
   },
   "ardwon": {
     "pos": "noun",
@@ -522,9 +436,8 @@
       "ærdwɒn"
     ],
     "def": [
-      "high",
       "high, as in altitude",
-      " high, as in elated, high spirited"
+      "high, as in elated, high spirited"
     ]
   },
   "ariot": {
@@ -533,7 +446,6 @@
       "æriɒt"
     ],
     "def": [
-      "left",
       "left, directional"
     ]
   },
@@ -542,10 +454,7 @@
     "ipa": [
       "æsoʊʀ"
     ],
-    "def": [
-      "or",
-      ""
-    ]
+    "def": "or"
   },
   "astara": {
     "pos": "verb",
@@ -553,7 +462,6 @@
       "æstɔːrɔː"
     ],
     "def": [
-      "rule, by fate",
       "to rule by fate"
     ]
   },
@@ -562,20 +470,14 @@
     "ipa": [
       "æstɔːrɔːl"
     ],
-    "def": [
-      "fated ruler",
-      ""
-    ]
+    "def": "fated ruler"
   },
   "astvhol": {
     "pos": "noun",
     "ipa": [
       "æstⱱɒl"
     ],
-    "def": [
-      "tongue",
-      ""
-    ]
+    "def": "tongue"
   },
   "atha": {
     "pos": "verb",
@@ -583,7 +485,6 @@
       "æθɔː"
     ],
     "def": [
-      "die",
       "to die"
     ]
   },
@@ -592,10 +493,7 @@
     "ipa": [
       "æθɔːdʀ"
     ],
-    "def": [
-      "death",
-      ""
-    ]
+    "def": "death"
   },
   "athael": {
     "pos": "noun",
@@ -603,7 +501,6 @@
       "æθeːyl"
     ],
     "def": [
-      "eighth month",
       "eighth month of the year"
     ]
   },
@@ -613,9 +510,8 @@
       "æθdrɔːɒð"
     ],
     "def": [
-      "trap",
       "trap, snare",
-      " a malevolent surprise"
+      "a malevolent surprise"
     ]
   },
   "athdraodhi": {
@@ -624,9 +520,8 @@
       "æθdrɔːɒði"
     ],
     "def": [
-      "trap",
       "to trap",
-      " to snare (while hunting)"
+      "to snare (while hunting)"
     ]
   },
   "athir": {
@@ -634,10 +529,7 @@
     "ipa": [
       "æθiʀ"
     ],
-    "def": [
-      "hope",
-      ""
-    ]
+    "def": "hope"
   },
   "athira": {
     "pos": "verb",
@@ -645,7 +537,6 @@
       "æθirɔː"
     ],
     "def": [
-      "hope",
       "to hope"
     ]
   },
@@ -654,20 +545,14 @@
     "ipa": [
       "æθrɒn"
     ],
-    "def": [
-      "sky",
-      ""
-    ]
+    "def": "sky"
   },
   "athronil": {
     "pos": "noun",
     "ipa": [
       "æθrɒnil"
     ],
-    "def": [
-      "night sky",
-      ""
-    ]
+    "def": "night sky"
   },
   "athrothá": {
     "pos": "verb",
@@ -675,9 +560,8 @@
       "æθrɒθa"
     ],
     "def": [
-      "despair",
       "to despair",
-      " to feel no hope"
+      "to feel no hope"
     ]
   },
   "athtyva": {
@@ -686,7 +570,6 @@
       "æθtyvɔː"
     ],
     "def": [
-      "kill",
       "to kill"
     ]
   },
@@ -696,7 +579,6 @@
       "æθ'sɒl"
     ],
     "def": [
-      "sixth day",
       "sixth day of the week"
     ]
   },
@@ -706,9 +588,8 @@
       "ætrɔː"
     ],
     "def": [
-      "armor",
       "to armor, to gird",
-      " to protect"
+      "to protect"
     ]
   },
   "atral": {
@@ -716,20 +597,14 @@
     "ipa": [
       "ætrɔːl"
     ],
-    "def": [
-      "armor",
-      ""
-    ]
+    "def": "armor"
   },
   "attir": {
     "pos": "noun",
     "ipa": [
       "ættiʀ"
     ],
-    "def": [
-      "love",
-      ""
-    ]
+    "def": "love"
   },
   "attiri": {
     "pos": "verb",
@@ -737,7 +612,6 @@
       "ættiri"
     ],
     "def": [
-      "love",
       "to love"
     ]
   },
@@ -747,7 +621,6 @@
       "ævɔː"
     ],
     "def": [
-      "be",
       "to be"
     ]
   },
@@ -756,30 +629,21 @@
     "ipa": [
       "ævɔːɪn"
     ],
-    "def": [
-      "rather",
-      ""
-    ]
+    "def": "rather"
   },
   "avak": {
     "pos": "conjunction",
     "ipa": [
       "ævɔːk"
     ],
-    "def": [
-      "because",
-      ""
-    ]
+    "def": "because"
   },
   "avkaidh": {
     "pos": "noun",
     "ipa": [
       "ævkɔːɪið"
     ],
-    "def": [
-      "uncertain",
-      ""
-    ]
+    "def": "uncertain"
   },
   "avkena": {
     "pos": "verb",
@@ -787,7 +651,6 @@
       "ævkeːnɔː"
     ],
     "def": [
-      "uncertain",
       "to feel uncertain"
     ]
   },
@@ -797,9 +660,8 @@
       "ævrɔː"
     ],
     "def": [
-      "carve",
       "to carve",
-      " to shape by removing aspects"
+      "to shape by removing aspects"
     ]
   },
   "avracht": {
@@ -808,9 +670,8 @@
       "ævrɔːxt"
     ],
     "def": [
-      "carving",
       "a carving",
-      " a sculpture created by removing material from a larger whole"
+      "a sculpture created by removing material from a larger whole"
     ]
   },
   "avradha": {
@@ -819,10 +680,9 @@
       "ævrɔːðɔː"
     ],
     "def": [
-      "become",
       "to become",
-      " to change or grow into something new",
-      " to transform"
+      "to change or grow into something new",
+      "to transform"
     ]
   },
   "ayir": {
@@ -830,20 +690,14 @@
     "ipa": [
       "eːɪiʀ"
     ],
-    "def": [
-      "about",
-      ""
-    ]
+    "def": "about"
   },
   "aythír": {
     "pos": "noun",
     "ipa": [
       "eːɪθɪʀ"
     ],
-    "def": [
-      "dream",
-      ""
-    ]
+    "def": "dream"
   },
   "aythíri": {
     "pos": "verb",
@@ -851,7 +705,6 @@
       "eːɪθɪri"
     ],
     "def": [
-      "dream",
       "to dream or imagine"
     ]
   },
@@ -860,60 +713,42 @@
     "ipa": [
       "æ'ɒʊprɔːr'ɒʊt"
     ],
-    "def": [
-      "until",
-      ""
-    ]
+    "def": "until"
   },
   "bekos": {
     "pos": "noun",
     "ipa": [
       "beːkɒ̞ʃ"
     ],
-    "def": [
-      "bee",
-      ""
-    ]
+    "def": "bee"
   },
   "bit": {
     "pos": "noun",
     "ipa": [
       "bit"
     ],
-    "def": [
-      "well",
-      ""
-    ]
+    "def": "well"
   },
   "bitu": {
     "pos": "noun",
     "ipa": [
       "bitʌ"
     ],
-    "def": [
-      "yak",
-      ""
-    ]
+    "def": "yak"
   },
   "bodth": {
     "pos": "noun",
     "ipa": [
       "bɒdθ"
     ],
-    "def": [
-      "raven",
-      ""
-    ]
+    "def": "raven"
   },
   "braen": {
     "pos": "noun",
     "ipa": [
       "breːyn"
     ],
-    "def": [
-      "morning",
-      ""
-    ]
+    "def": "morning"
   },
   "brakti": {
     "pos": "verb",
@@ -921,7 +756,6 @@
       "brɔːkti"
     ],
     "def": [
-      "judge",
       "to judge"
     ]
   },
@@ -930,10 +764,7 @@
     "ipa": [
       "brɔːktɪ"
     ],
-    "def": [
-      "judge",
-      ""
-    ]
+    "def": "judge"
   },
   "bridha": {
     "pos": "verb",
@@ -941,9 +772,8 @@
       "briðɔː"
     ],
     "def": [
-      "move quickly",
       "to move with speed",
-      " to act with purpose"
+      "to act with purpose"
     ]
   },
   "cadho": {
@@ -951,30 +781,21 @@
     "ipa": [
       "kɔːðɒ"
     ],
-    "def": [
-      "shirt",
-      ""
-    ]
+    "def": "shirt"
   },
   "cadohár": {
     "pos": "noun",
     "ipa": [
       "kɔːdɒ̞aʀ"
     ],
-    "def": [
-      "sweater",
-      ""
-    ]
+    "def": "sweater"
   },
   "cai": {
     "pos": "pronoun",
     "ipa": [
       "kɔːɪ"
     ],
-    "def": [
-      "you",
-      ""
-    ]
+    "def": "you"
   },
   "caildraidh": {
     "pos": "noun",
@@ -982,9 +803,8 @@
       "kɔːɪldrɔːɪið"
     ],
     "def": [
-      "facet",
       "facet, face (of a cut object)",
-      " aspect"
+      "aspect"
     ]
   },
   "caildrava": {
@@ -993,10 +813,9 @@
       "kɔːɪldrɔːvɔː"
     ],
     "def": [
-      "knap",
       "to knap or shape by cutting away incrementally",
-      " to cut facets",
-      " to wear down ones will incrementally (col)"
+      "to cut facets",
+      "to wear down ones will incrementally (col)"
     ]
   },
   "caiv": {
@@ -1005,7 +824,6 @@
       "kɔːɪv"
     ],
     "def": [
-      "it",
       "formal third person genderless pronoun used primarily in formal speech and writing"
     ]
   },
@@ -1014,20 +832,14 @@
     "ipa": [
       "kɔːɪ'ɒʊ̞ʃ"
     ],
-    "def": [
-      "yourself",
-      ""
-    ]
+    "def": "yourself"
   },
   "cal": {
     "pos": "pronoun",
     "ipa": [
       "kɔːl"
     ],
-    "def": [
-      "him",
-      ""
-    ]
+    "def": "him"
   },
   "calsin": {
     "pos": "noun",
@@ -1035,7 +847,6 @@
       "kɔːlsɪn"
     ],
     "def": [
-      "third month",
       "third month of the year"
     ]
   },
@@ -1044,90 +855,63 @@
     "ipa": [
       "kɔːl'ɒʊ̞ʃ"
     ],
-    "def": [
-      "himself",
-      ""
-    ]
+    "def": "himself"
   },
   "canso": {
     "pos": "noun",
     "ipa": [
       "kɔːnsɒ"
     ],
-    "def": [
-      "cat",
-      ""
-    ]
+    "def": "cat"
   },
   "car": {
     "pos": "pronoun",
     "ipa": [
       "kɔːʀ"
     ],
-    "def": [
-      "they",
-      ""
-    ]
+    "def": "they"
   },
   "car'os": {
     "pos": "pronoun",
     "ipa": [
       "kɔːr'ɒʊ̞ʃ"
     ],
-    "def": [
-      "itself",
-      ""
-    ]
+    "def": "itself"
   },
   "cav": {
     "pos": "pronoun",
     "ipa": [
       "kɔːv"
     ],
-    "def": [
-      "her",
-      ""
-    ]
+    "def": "her"
   },
   "cav'os": {
     "pos": "pronoun",
     "ipa": [
       "kɔːv'ɒʊ̞ʃ"
     ],
-    "def": [
-      "herself",
-      ""
-    ]
+    "def": "herself"
   },
   "chaita": {
     "pos": "noun",
     "ipa": [
       "xɔːɪtɔː"
     ],
-    "def": [
-      "history",
-      ""
-    ]
+    "def": "history"
   },
   "co": {
     "pos": "pronoun",
     "ipa": [
       "kɒ"
     ],
-    "def": [
-      "i",
-      ""
-    ]
+    "def": "i"
   },
   "coraos": {
     "pos": "noun",
     "ipa": [
       "kɒrɔːɒ̞ʃ"
     ],
-    "def": [
-      "happiness",
-      ""
-    ]
+    "def": "happiness"
   },
   "coraosi": {
     "pos": "verb",
@@ -1135,7 +919,6 @@
       "kɒrɔːɒ̞ʃi"
     ],
     "def": [
-      "happy",
       "to feel happy"
     ]
   },
@@ -1144,20 +927,14 @@
     "ipa": [
       "koʊɔː"
     ],
-    "def": [
-      "family",
-      ""
-    ]
+    "def": "family"
   },
   "craisc": {
     "pos": "noun",
     "ipa": [
       "krɔːɪʃk"
     ],
-    "def": [
-      "child",
-      ""
-    ]
+    "def": "child"
   },
   "cranvai": {
     "pos": "verb",
@@ -1165,9 +942,8 @@
       "krɔːnvɔːɪ"
     ],
     "def": [
-      "change",
       "to change",
-      " to grow due to external pressure"
+      "to grow due to external pressure"
     ]
   },
   "cranvais": {
@@ -1175,10 +951,7 @@
     "ipa": [
       "krɔːnvɔːɪʃ"
     ],
-    "def": [
-      "change",
-      ""
-    ]
+    "def": "change"
   },
   "crüi": {
     "pos": "verb",
@@ -1186,9 +959,8 @@
       "kroʊi"
     ],
     "def": [
-      "fossilize",
       "to fossilize",
-      " to cement"
+      "to cement"
     ]
   },
   "crüidh": {
@@ -1196,20 +968,14 @@
     "ipa": [
       "kroʊið"
     ],
-    "def": [
-      "fossil",
-      ""
-    ]
+    "def": "fossil"
   },
   "dagü": {
     "pos": "noun",
     "ipa": [
       "dɔːgoʊ"
     ],
-    "def": [
-      "brother",
-      ""
-    ]
+    "def": "brother"
   },
   "dakla": {
     "pos": "verb",
@@ -1217,9 +983,8 @@
       "dɔːklɔː"
     ],
     "def": [
-      "brave",
       "to brave",
-      " to weather (as a storm)"
+      "to weather (as a storm)"
     ]
   },
   "daklaí": {
@@ -1227,10 +992,7 @@
     "ipa": [
       "dɔːklɔːɪ"
     ],
-    "def": [
-      "brave",
-      ""
-    ]
+    "def": "brave"
   },
   "danora": {
     "pos": "verb",
@@ -1238,7 +1000,6 @@
       "dɔːnɒrɔː"
     ],
     "def": [
-      "live",
       "to live, esp to thrive"
     ]
   },
@@ -1247,40 +1008,28 @@
     "ipa": [
       "dɔːpfiʀ"
     ],
-    "def": [
-      "destiny",
-      ""
-    ]
+    "def": "destiny"
   },
   "daymist": {
     "pos": "conjunction",
     "ipa": [
       "deːɪmiʃt"
     ],
-    "def": [
-      "once",
-      ""
-    ]
+    "def": "once"
   },
   "dál": {
     "pos": "noun",
     "ipa": [
       "dal"
     ],
-    "def": [
-      "spirit",
-      ""
-    ]
+    "def": "spirit"
   },
   "deru": {
     "pos": "noun",
     "ipa": [
       "deːrʌ"
     ],
-    "def": [
-      "tree",
-      ""
-    ]
+    "def": "tree"
   },
   "desia": {
     "pos": "verb",
@@ -1288,9 +1037,8 @@
       "deːsiɔː"
     ],
     "def": [
-      "decide",
       "to decide, to elect",
-      " to opt"
+      "to opt"
     ]
   },
   "desián": {
@@ -1298,60 +1046,42 @@
     "ipa": [
       "deːsɛən"
     ],
-    "def": [
-      "decision",
-      ""
-    ]
+    "def": "decision"
   },
   "dhaisöch": {
     "pos": "noun",
     "ipa": [
       "ðɔːɪʃoʊx"
     ],
-    "def": [
-      "luck",
-      ""
-    ]
+    "def": "luck"
   },
   "dhrü": {
     "pos": "noun",
     "ipa": [
       "ðroʊ"
     ],
-    "def": [
-      "beast",
-      ""
-    ]
+    "def": "beast"
   },
   "dhuch": {
     "pos": "noun",
     "ipa": [
       "ðux"
     ],
-    "def": [
-      "smoke",
-      ""
-    ]
+    "def": "smoke"
   },
   "dhwer": {
     "pos": "noun",
     "ipa": [
       "ðweːʀ"
     ],
-    "def": [
-      "door/gate",
-      ""
-    ]
+    "def": "door/gate"
   },
   "drakkir": {
     "pos": "noun",
     "ipa": [
       "drɔːkkiʀ"
     ],
-    "def": [
-      "dragon",
-      ""
-    ]
+    "def": "dragon"
   },
   "draodh": {
     "pos": "noun",
@@ -1359,9 +1089,8 @@
       "drɔːɒð"
     ],
     "def": [
-      "tangle",
       "tangle, snare, or mat",
-      " a snag"
+      "a snag"
     ]
   },
   "draodhi": {
@@ -1370,9 +1099,8 @@
       "drɔːɒði"
     ],
     "def": [
-      "tangle",
       "to tangle, snare, or mat",
-      " to snag"
+      "to snag"
     ]
   },
   "dreáidh": {
@@ -1380,20 +1108,14 @@
     "ipa": [
       "dreːaið"
     ],
-    "def": [
-      "flower",
-      ""
-    ]
+    "def": "flower"
   },
   "drev": {
     "pos": "noun",
     "ipa": [
       "dreːv"
     ],
-    "def": [
-      "plant",
-      ""
-    ]
+    "def": "plant"
   },
   "drevi": {
     "pos": "verb",
@@ -1401,7 +1123,6 @@
       "dreːvi"
     ],
     "def": [
-      "plant",
       "to plant, to sow"
     ]
   },
@@ -1410,10 +1131,7 @@
     "ipa": [
       "drɪt͡sɛyl"
     ],
-    "def": [
-      "memory",
-      ""
-    ]
+    "def": "memory"
   },
   "drisai": {
     "pos": "verb",
@@ -1421,7 +1139,6 @@
       "driʃɔːɪ"
     ],
     "def": [
-      "remember",
       "to remember or recollect"
     ]
   },
@@ -1430,10 +1147,7 @@
     "ipa": [
       "drɒʀ"
     ],
-    "def": [
-      "land",
-      ""
-    ]
+    "def": "land"
   },
   "dröfosni": {
     "pos": "verb",
@@ -1441,9 +1155,8 @@
       "droʊfɒ̞ʃni"
     ],
     "def": [
-      "lord over",
       "to lord over",
-      " to reign"
+      "to reign"
     ]
   },
   "dröttnin": {
@@ -1451,10 +1164,7 @@
     "ipa": [
       "droʊttnɪn"
     ],
-    "def": [
-      "lord",
-      ""
-    ]
+    "def": "lord"
   },
   "dvergza": {
     "pos": "verb",
@@ -1462,7 +1172,6 @@
       "dveːrtʃɔː"
     ],
     "def": [
-      "unwelcome",
       "to convey to someone that they are not welcome, i.e. opposite of to welcome"
     ]
   },
@@ -1471,10 +1180,7 @@
     "ipa": [
       "dveːrtʃa"
     ],
-    "def": [
-      "unwelcome",
-      ""
-    ]
+    "def": "unwelcome"
   },
   "efia": {
     "pos": "verb",
@@ -1482,9 +1188,8 @@
       "eːfiɔː"
     ],
     "def": [
-      "oppose",
       "to oppose, to counter",
-      " to stand apart from someone or something"
+      "to stand apart from someone or something"
     ]
   },
   "efian": {
@@ -1492,20 +1197,14 @@
     "ipa": [
       "eːfiɔːn"
     ],
-    "def": [
-      "enemy",
-      ""
-    ]
+    "def": "enemy"
   },
   "einnor": {
     "pos": "noun",
     "ipa": [
       "eːɪnnɒʀ"
     ],
-    "def": [
-      "alone",
-      ""
-    ]
+    "def": "alone"
   },
   "eitra": {
     "pos": "verb",
@@ -1513,7 +1212,6 @@
       "eːitrɔː"
     ],
     "def": [
-      "poison",
       "to poison"
     ]
   },
@@ -1522,10 +1220,7 @@
     "ipa": [
       "eːitrɔːl"
     ],
-    "def": [
-      "poison",
-      ""
-    ]
+    "def": "poison"
   },
   "ekoa": {
     "pos": "verb",
@@ -1533,9 +1228,8 @@
       "eːkɒɔː"
     ],
     "def": [
-      "turn",
       "to turn",
-      " to shift aside"
+      "to shift aside"
     ]
   },
   "ekoá": {
@@ -1543,10 +1237,7 @@
     "ipa": [
       "eːkɒa"
     ],
-    "def": [
-      "turn",
-      ""
-    ]
+    "def": "turn"
   },
   "ekthra": {
     "pos": "verb",
@@ -1554,7 +1245,6 @@
       "eːkθrɔː"
     ],
     "def": [
-      "ruin",
       "to ruin or destroy"
     ]
   },
@@ -1563,10 +1253,7 @@
     "ipa": [
       "eːkθra"
     ],
-    "def": [
-      "ruin",
-      ""
-    ]
+    "def": "ruin"
   },
   "elsra": {
     "pos": "verb",
@@ -1574,7 +1261,6 @@
       "eːlsrɔː"
     ],
     "def": [
-      "save",
       "to save, to preserve"
     ]
   },
@@ -1583,10 +1269,7 @@
     "ipa": [
       "eːlsra"
     ],
-    "def": [
-      "save",
-      ""
-    ]
+    "def": "save"
   },
   "entaya": {
     "pos": "verb",
@@ -1594,7 +1277,6 @@
       "eːnteːɪɔː"
     ],
     "def": [
-      "tell a story",
       "to tell a story"
     ]
   },
@@ -1603,20 +1285,14 @@
     "ipa": [
       "eːnteːɪl"
     ],
-    "def": [
-      "story",
-      ""
-    ]
+    "def": "story"
   },
   "enuliat": {
     "pos": "noun",
     "ipa": [
       "eːnuliɔːt"
     ],
-    "def": [
-      "shadow",
-      ""
-    ]
+    "def": "shadow"
   },
   "enuliata": {
     "pos": "verb",
@@ -1624,9 +1300,8 @@
       "eːnuliɔːtɔː"
     ],
     "def": [
-      "shadow",
       "to shadow",
-      " to cast into shadow"
+      "to cast into shadow"
     ]
   },
   "ervjar": {
@@ -1634,10 +1309,7 @@
     "ipa": [
       "eːrvd͡ʒɔːʀ"
     ],
-    "def": [
-      "bond",
-      ""
-    ]
+    "def": "bond"
   },
   "ervjara": {
     "pos": "verb",
@@ -1645,9 +1317,8 @@
       "eːrvd͡ʒɔːrɔː"
     ],
     "def": [
-      "bind",
       "to bind, tie, or restrain",
-      " to lock within or to someone or something"
+      "to lock within or to someone or something"
     ]
   },
   "ervlaí": {
@@ -1655,10 +1326,7 @@
     "ipa": [
       "eːrvlɔːɪ"
     ],
-    "def": [
-      "eternal",
-      ""
-    ]
+    "def": "eternal"
   },
   "ervli": {
     "pos": "verb",
@@ -1666,9 +1334,8 @@
       "eːrvli"
     ],
     "def": [
-      "endure",
       "to endure, persist, or remain",
-      " to last"
+      "to last"
     ]
   },
   "esri": {
@@ -1677,7 +1344,6 @@
       "ɛʃri"
     ],
     "def": [
-      "individualize",
       "to individualize or emphasize the individual"
     ]
   },
@@ -1686,10 +1352,7 @@
     "ipa": [
       "ɛʃril"
     ],
-    "def": [
-      "individual/each",
-      ""
-    ]
+    "def": "individual/each"
   },
   "estra": {
     "pos": "verb",
@@ -1697,7 +1360,6 @@
       "ɛʃtrɔː"
     ],
     "def": [
-      "hear",
       "to hear"
     ]
   },
@@ -1706,10 +1368,7 @@
     "ipa": [
       "ɛʃtra"
     ],
-    "def": [
-      "hearing/witness",
-      ""
-    ]
+    "def": "hearing/witness"
   },
   "evra": {
     "pos": "verb",
@@ -1717,9 +1376,8 @@
       "eːvrɔː"
     ],
     "def": [
-      "sculpt",
       "to sculpt, to create by building up from nothing",
-      " to build up"
+      "to build up"
     ]
   },
   "evrá": {
@@ -1728,9 +1386,8 @@
       "eːvra"
     ],
     "def": [
-      "sculpture",
       "something created by adding component pieces",
-      " a sculpture"
+      "a sculpture"
     ]
   },
   "fien": {
@@ -1738,10 +1395,7 @@
     "ipa": [
       "fieːn"
     ],
-    "def": [
-      "book",
-      ""
-    ]
+    "def": "book"
   },
   "fiena": {
     "pos": "verb",
@@ -1749,7 +1403,6 @@
       "fieːnɔː"
     ],
     "def": [
-      "read",
       "to read"
     ]
   },
@@ -1759,7 +1412,6 @@
       "fieːnsɒln"
     ],
     "def": [
-      "bookshelf",
       "bookshelf, bookplace, bookstorage"
     ]
   },
@@ -1768,10 +1420,7 @@
     "ipa": [
       "fɒeːdriʃ"
     ],
-    "def": [
-      "ancient",
-      ""
-    ]
+    "def": "ancient"
   },
   "fos": {
     "pos": "noun",
@@ -1779,7 +1428,6 @@
       "fɒ̞ʃ"
     ],
     "def": [
-      "over",
       "over, above"
     ]
   },
@@ -1789,7 +1437,6 @@
       "frɒdɔː"
     ],
     "def": [
-      "burn",
       "to burn"
     ]
   },
@@ -1798,20 +1445,14 @@
     "ipa": [
       "frɒda"
     ],
-    "def": [
-      "burn",
-      ""
-    ]
+    "def": "burn"
   },
   "frohj": {
     "pos": "noun",
     "ipa": [
       "frɒ̞d͡ʒ"
     ],
-    "def": [
-      "snow",
-      ""
-    ]
+    "def": "snow"
   },
   "frohja": {
     "pos": "verb",
@@ -1819,7 +1460,6 @@
       "frɒ̞d͡ʒɔː"
     ],
     "def": [
-      "snow",
       "to snow"
     ]
   },
@@ -1829,9 +1469,8 @@
       "frɒ̞ʃd͡ʒɔː"
     ],
     "def": [
-      "ice",
       "to ice",
-      " to precipitate as frozen rain or sleet"
+      "to precipitate as frozen rain or sleet"
     ]
   },
   "frosjan": {
@@ -1839,10 +1478,7 @@
     "ipa": [
       "frɒ̞ʃd͡ʒɔːn"
     ],
-    "def": [
-      "ice",
-      ""
-    ]
+    "def": "ice"
   },
   "fugra": {
     "pos": "verb",
@@ -1850,7 +1486,6 @@
       "fugrɔː"
     ],
     "def": [
-      "free",
       "to free, to release"
     ]
   },
@@ -1859,40 +1494,28 @@
     "ipa": [
       "fugra"
     ],
-    "def": [
-      "free",
-      ""
-    ]
+    "def": "free"
   },
   "fval": {
     "pos": "noun",
     "ipa": [
       "fvɔːl"
     ],
-    "def": [
-      "white",
-      ""
-    ]
+    "def": "white"
   },
   "gael": {
     "pos": "noun",
     "ipa": [
       "geːyl"
     ],
-    "def": [
-      "day",
-      ""
-    ]
+    "def": "day"
   },
   "gafr": {
     "pos": "noun",
     "ipa": [
       "gɔːfʀ"
     ],
-    "def": [
-      "demon",
-      ""
-    ]
+    "def": "demon"
   },
   "graeti": {
     "pos": "verb",
@@ -1900,7 +1523,6 @@
       "greːyti"
     ],
     "def": [
-      "face",
       "to face"
     ]
   },
@@ -1909,50 +1531,35 @@
     "ipa": [
       "greːytɪn"
     ],
-    "def": [
-      "face",
-      ""
-    ]
+    "def": "face"
   },
   "hait": {
     "pos": "preposition",
     "ipa": [
       "hɔːɪt"
     ],
-    "def": [
-      "to the",
-      ""
-    ]
+    "def": "to the"
   },
   "hak": {
     "pos": "article",
     "ipa": [
       "hɔːk"
     ],
-    "def": [
-      "the",
-      ""
-    ]
+    "def": "the"
   },
   "han": {
     "pos": "noun",
     "ipa": [
       "hɔːn"
     ],
-    "def": [
-      "with",
-      ""
-    ]
+    "def": "with"
   },
   "hijror": {
     "pos": "noun",
     "ipa": [
       "hid͡ʒrɒʀ"
     ],
-    "def": [
-      "choice",
-      ""
-    ]
+    "def": "choice"
   },
   "hijrora": {
     "pos": "verb",
@@ -1960,7 +1567,6 @@
       "hid͡ʒrɒrɔː"
     ],
     "def": [
-      "choose",
       "to choose, to select"
     ]
   },
@@ -1969,30 +1575,21 @@
     "ipa": [
       "hirid"
     ],
-    "def": [
-      "loyal",
-      ""
-    ]
+    "def": "loyal"
   },
   "hrál": {
     "pos": "noun",
     "ipa": [
       "hral"
     ],
-    "def": [
-      "neck",
-      ""
-    ]
+    "def": "neck"
   },
   "hrimár": {
     "pos": "noun",
     "ipa": [
       "hrimaʀ"
     ],
-    "def": [
-      "frost giant",
-      ""
-    ]
+    "def": "frost giant"
   },
   "ibura": {
     "pos": "verb",
@@ -2000,9 +1597,8 @@
       "iburɔː"
     ],
     "def": [
-      "walk",
       "to walk, to stride",
-      " to travel by foot"
+      "to travel by foot"
     ]
   },
   "iburá": {
@@ -2011,9 +1607,8 @@
       "ibura"
     ],
     "def": [
-      "walk",
       "a walk",
-      " a path for foot traffic, generally locally"
+      "a path for foot traffic, generally locally"
     ]
   },
   "idir": {
@@ -2021,10 +1616,7 @@
     "ipa": [
       "idiʀ"
     ],
-    "def": [
-      "sea",
-      ""
-    ]
+    "def": "sea"
   },
   "idrai": {
     "pos": "verb",
@@ -2032,9 +1624,8 @@
       "idrɔːɪ"
     ],
     "def": [
-      "storm",
       "to storm",
-      " to storm off (as in anger)"
+      "to storm off (as in anger)"
     ]
   },
   "idrail": {
@@ -2042,20 +1633,14 @@
     "ipa": [
       "idrɔːɪl"
     ],
-    "def": [
-      "storm",
-      ""
-    ]
+    "def": "storm"
   },
   "ien": {
     "pos": "preposition",
     "ipa": [
       "ieːn"
     ],
-    "def": [
-      "in",
-      ""
-    ]
+    "def": "in"
   },
   "ietna": {
     "pos": "verb",
@@ -2063,7 +1648,6 @@
       "ieːtnɔː"
     ],
     "def": [
-      "stop",
       "to stop, to halt, to cease moving"
     ]
   },
@@ -2073,9 +1657,8 @@
       "ieːtna"
     ],
     "def": [
-      "stop",
       "a stop on a journey",
-      " a place of rest"
+      "a place of rest"
     ]
   },
   "ija": {
@@ -2084,7 +1667,6 @@
       "id͡ʒɔː"
     ],
     "def": [
-      "take",
       "to take, to sieze"
     ]
   },
@@ -2094,9 +1676,8 @@
       "id͡ʒɔːn"
     ],
     "def": [
-      "take",
       "the result of an action",
-      " a takeaway"
+      "a takeaway"
     ]
   },
   "ijeri": {
@@ -2105,9 +1686,8 @@
       "id͡ʒeːri"
     ],
     "def": [
-      "see",
       "to see",
-      " to perceive something which happened with vision"
+      "to perceive something which happened with vision"
     ]
   },
   "ijerin": {
@@ -2115,10 +1695,7 @@
     "ipa": [
       "id͡ʒeːrɪn"
     ],
-    "def": [
-      "eyesight/vision",
-      ""
-    ]
+    "def": "eyesight/vision"
   },
   "illtari": {
     "pos": "verb",
@@ -2126,7 +1703,6 @@
       "illtɔːri"
     ],
     "def": [
-      "cloak",
       "to cloak, shelter, or protect"
     ]
   },
@@ -2136,7 +1712,6 @@
       "illtɔːrn"
     ],
     "def": [
-      "cloak",
       "cloak, cape"
     ]
   },
@@ -2146,7 +1721,6 @@
       "ilri"
     ],
     "def": [
-      "glance",
       "to glance"
     ]
   },
@@ -2155,10 +1729,7 @@
     "ipa": [
       "ilrɪn"
     ],
-    "def": [
-      "glance",
-      ""
-    ]
+    "def": "glance"
   },
   "ilta": {
     "pos": "verb",
@@ -2166,10 +1737,9 @@
       "iltɔː"
     ],
     "def": [
-      "heal",
       "to heal",
-      " to mend as health",
-      " to relieve someone's ailments"
+      "to mend as health",
+      "to relieve someone's ailments"
     ]
   },
   "iltain": {
@@ -2178,7 +1748,6 @@
       "iltɔːɪn"
     ],
     "def": [
-      "pigment",
       "pigment or dye used for ink, fabrics, paints, etc."
     ]
   },
@@ -2189,8 +1758,7 @@
     ],
     "def": [
       "medicine",
-      "medicine",
-      " generally, items used for healing"
+      "generally, items used for healing"
     ]
   },
   "im": {
@@ -2198,30 +1766,21 @@
     "ipa": [
       "im"
     ],
-    "def": [
-      "like, as",
-      ""
-    ]
+    "def": "like, as"
   },
   "inár": {
     "pos": "noun",
     "ipa": [
       "ɪnaʀ"
     ],
-    "def": [
-      "sword",
-      ""
-    ]
+    "def": "sword"
   },
   "inilas": {
     "pos": "noun",
     "ipa": [
       "ɪnilɔːs"
     ],
-    "def": [
-      "good",
-      ""
-    ]
+    "def": "good"
   },
   "innithria": {
     "pos": "verb",
@@ -2229,9 +1788,8 @@
       "ɪnniθriɔː"
     ],
     "def": [
-      "fear",
       "to fear (something)",
-      " to feel fear"
+      "to feel fear"
     ]
   },
   "innithrian": {
@@ -2239,10 +1797,7 @@
     "ipa": [
       "ɪnniθriɔːn"
     ],
-    "def": [
-      "fear",
-      ""
-    ]
+    "def": "fear"
   },
   "insia": {
     "pos": "verb",
@@ -2250,9 +1805,8 @@
       "ɪnsiɔː"
     ],
     "def": [
-      "write",
       "to write, to scribe",
-      " to document"
+      "to document"
     ]
   },
   "insian": {
@@ -2260,40 +1814,28 @@
     "ipa": [
       "ɪnsiɔːn"
     ],
-    "def": [
-      "writ",
-      ""
-    ]
+    "def": "writ"
   },
   "ioprat": {
     "pos": "noun",
     "ipa": [
       "iɒprɔːt"
     ],
-    "def": [
-      "mundane",
-      ""
-    ]
+    "def": "mundane"
   },
   "irit": {
     "pos": "noun",
     "ipa": [
       "irit"
     ],
-    "def": [
-      "soul",
-      ""
-    ]
+    "def": "soul"
   },
   "irmae": {
     "pos": "noun",
     "ipa": [
       "irmeːy"
     ],
-    "def": [
-      "sky",
-      ""
-    ]
+    "def": "sky"
   },
   "isarei": {
     "pos": "verb",
@@ -2301,7 +1843,6 @@
       "iʃɔːreːi"
     ],
     "def": [
-      "feel",
       "to feel as emotions"
     ]
   },
@@ -2310,40 +1851,28 @@
     "ipa": [
       "iʃɔːreːn"
     ],
-    "def": [
-      "emotion",
-      ""
-    ]
+    "def": "emotion"
   },
   "isdráidh": {
     "pos": "noun",
     "ipa": [
       "iʃdraið"
     ],
-    "def": [
-      "wildflower",
-      ""
-    ]
+    "def": "wildflower"
   },
   "isen": {
     "pos": "noun",
     "ipa": [
       "ɪt͡sɛn"
     ],
-    "def": [
-      "black",
-      ""
-    ]
+    "def": "black"
   },
   "isk": {
     "pos": "preposition",
     "ipa": [
       "iʃk"
     ],
-    "def": [
-      "on",
-      ""
-    ]
+    "def": "on"
   },
   "isnioch": {
     "pos": "noun",
@@ -2351,7 +1880,6 @@
       "iʃniɒx"
     ],
     "def": [
-      "work",
       "work, employment, job"
     ]
   },
@@ -2360,30 +1888,21 @@
     "ipa": [
       "iʃrɔːl"
     ],
-    "def": [
-      "freedom",
-      ""
-    ]
+    "def": "freedom"
   },
   "isrenin": {
     "pos": "noun",
     "ipa": [
       "iʃreːnɪn"
     ],
-    "def": [
-      "black guard",
-      ""
-    ]
+    "def": "black guard"
   },
   "jhod": {
     "pos": "noun",
     "ipa": [
       "d͡ʑɒd"
     ],
-    "def": [
-      "sun",
-      ""
-    ]
+    "def": "sun"
   },
   "jhoda": {
     "pos": "verb",
@@ -2391,9 +1910,8 @@
       "d͡ʑɒdɔː"
     ],
     "def": [
-      "shine",
       "to shine",
-      " to emit light"
+      "to emit light"
     ]
   },
   "jhodrah": {
@@ -2401,30 +1919,21 @@
     "ipa": [
       "d͡ʑɒdrə"
     ],
-    "def": [
-      "sunlight",
-      ""
-    ]
+    "def": "sunlight"
   },
   "jhothril": {
     "pos": "noun",
     "ipa": [
       "d͡ʑɒθril"
     ],
-    "def": [
-      "moon",
-      ""
-    ]
+    "def": "moon"
   },
   "jian": {
     "pos": "adverb",
     "ipa": [
       "d͡ʒiɔːn"
     ],
-    "def": [
-      "here",
-      ""
-    ]
+    "def": "here"
   },
   "jofa": {
     "pos": "verb",
@@ -2432,9 +1941,8 @@
       "d͡ʒɒfɔː"
     ],
     "def": [
-      "rule",
       "to rule, to govern",
-      " to make a binding decision"
+      "to make a binding decision"
     ]
   },
   "jofár": {
@@ -2442,30 +1950,21 @@
     "ipa": [
       "d͡ʒɒfaʀ"
     ],
-    "def": [
-      "king",
-      ""
-    ]
+    "def": "king"
   },
   "jotunn": {
     "pos": "noun",
     "ipa": [
       "d͡ʒɒtunn"
     ],
-    "def": [
-      "power",
-      ""
-    ]
+    "def": "power"
   },
   "kael": {
     "pos": "noun",
     "ipa": [
       "keːyl"
     ],
-    "def": [
-      "find",
-      ""
-    ]
+    "def": "find"
   },
   "kaela": {
     "pos": "verb",
@@ -2473,9 +1972,8 @@
       "keːylɔː"
     ],
     "def": [
-      "find",
       "to find",
-      " to discover something known but forgotten"
+      "to discover something known but forgotten"
     ]
   },
   "kafna": {
@@ -2484,7 +1982,6 @@
       "kɔːfnɔː"
     ],
     "def": [
-      "heat",
       "to heat, to warm"
     ]
   },
@@ -2493,20 +1990,14 @@
     "ipa": [
       "kɔːfna"
     ],
-    "def": [
-      "heat",
-      ""
-    ]
+    "def": "heat"
   },
   "kahlv": {
     "pos": "noun",
     "ipa": [
       "kəlv"
     ],
-    "def": [
-      "wish",
-      ""
-    ]
+    "def": "wish"
   },
   "kahlva": {
     "pos": "verb",
@@ -2514,7 +2005,6 @@
       "kəlvɔː"
     ],
     "def": [
-      "wish",
       "to wish"
     ]
   },
@@ -2524,7 +2014,6 @@
       "kɔːɪ"
     ],
     "def": [
-      "bring",
       "to bring"
     ]
   },
@@ -2534,7 +2023,6 @@
       "kɔːɪiðɔː"
     ],
     "def": [
-      "have",
       "to have"
     ]
   },
@@ -2543,10 +2031,7 @@
     "ipa": [
       "kɔːɪn"
     ],
-    "def": [
-      "wax",
-      ""
-    ]
+    "def": "wax"
   },
   "kaina": {
     "pos": "verb",
@@ -2554,7 +2039,6 @@
       "kɔːɪnɔː"
     ],
     "def": [
-      "seal",
       "to seal, to finish, to wax (in order to protect)"
     ]
   },
@@ -2564,9 +2048,8 @@
       "kɔːɪɒ̞ʃi"
     ],
     "def": [
-      "consider",
       "to consider",
-      " to contemplate"
+      "to contemplate"
     ]
   },
   "kaja": {
@@ -2575,7 +2058,6 @@
       "kɔːd͡ʒɔː"
     ],
     "def": [
-      "strike",
       "to strike, to hit"
     ]
   },
@@ -2584,20 +2066,14 @@
     "ipa": [
       "kɔːd͡ʒɔːn"
     ],
-    "def": [
-      "strike",
-      ""
-    ]
+    "def": "strike"
   },
   "kal": {
     "pos": "noun",
     "ipa": [
       "kɔːl"
     ],
-    "def": [
-      "rise",
-      ""
-    ]
+    "def": "rise"
   },
   "kala": {
     "pos": "verb",
@@ -2605,9 +2081,8 @@
       "kɔːlɔː"
     ],
     "def": [
-      "rise",
       "to rise, as to one's feet",
-      " to rise, as over a horizon"
+      "to rise, as over a horizon"
     ]
   },
   "kani": {
@@ -2616,9 +2091,8 @@
       "kɔːni"
     ],
     "def": [
-      "dog",
       "to dog, to follow relentlessly",
-      " to chase after as a dog might a bone"
+      "to chase after as a dog might a bone"
     ]
   },
   "kanil": {
@@ -2626,10 +2100,7 @@
     "ipa": [
       "kɔːnil"
     ],
-    "def": [
-      "dog",
-      ""
-    ]
+    "def": "dog"
   },
   "karina": {
     "pos": "noun",
@@ -2637,7 +2108,6 @@
       "kɔːrɪnɔː"
     ],
     "def": [
-      "meet",
       "to meet, convene, come together"
     ]
   },
@@ -2647,7 +2117,6 @@
       "kɔːstɔː"
     ],
     "def": [
-      "cast",
       "to cast as a spell, to put energy into the world"
     ]
   },
@@ -2657,7 +2126,6 @@
       "kɔːsta"
     ],
     "def": [
-      "cast",
       "a casting of a spell"
     ]
   },
@@ -2666,10 +2134,7 @@
     "ipa": [
       "keːnrɔːs"
     ],
-    "def": [
-      "know",
-      ""
-    ]
+    "def": "know"
   },
   "kenrasi": {
     "pos": "verb",
@@ -2677,9 +2142,8 @@
       "keːnrɔːsi"
     ],
     "def": [
-      "know",
       "to know, to understand",
-      " to be familiar with someone or something"
+      "to be familiar with someone or something"
     ]
   },
   "ki": {
@@ -2687,10 +2151,7 @@
     "ipa": [
       "ki"
     ],
-    "def": [
-      "who",
-      ""
-    ]
+    "def": "who"
   },
   "kina": {
     "pos": "verb",
@@ -2698,9 +2159,8 @@
       "kɪnɔː"
     ],
     "def": [
-      "move, traverse",
       "to move or traverse",
-      " to shift something from one location to another"
+      "to shift something from one location to another"
     ]
   },
   "kiná": {
@@ -2708,20 +2168,14 @@
     "ipa": [
       "kɪna"
     ],
-    "def": [
-      "movement, motion, traversal",
-      ""
-    ]
+    "def": "movement, motion, traversal"
   },
   "kiril": {
     "pos": "noun",
     "ipa": [
       "kiril"
     ],
-    "def": [
-      "bridge",
-      ""
-    ]
+    "def": "bridge"
   },
   "kirila": {
     "pos": "verb",
@@ -2729,9 +2183,8 @@
       "kirilɔː"
     ],
     "def": [
-      "bridge",
       "to bridge between two things",
-      " to connect two distant points"
+      "to connect two distant points"
     ]
   },
   "kirro": {
@@ -2739,10 +2192,7 @@
     "ipa": [
       "kirrɒ"
     ],
-    "def": [
-      "farm",
-      ""
-    ]
+    "def": "farm"
   },
   "kirroa": {
     "pos": "verb",
@@ -2750,9 +2200,8 @@
       "kirrɒɔː"
     ],
     "def": [
-      "farm",
       "to farm, to cultivate",
-      " to grow"
+      "to grow"
     ]
   },
   "kisae": {
@@ -2760,50 +2209,35 @@
     "ipa": [
       "kɪt͡sɛy"
     ],
-    "def": [
-      "summer",
-      ""
-    ]
+    "def": "summer"
   },
   "kía": {
     "pos": "noun",
     "ipa": [
       "kɪɔː"
     ],
-    "def": [
-      "this",
-      ""
-    ]
+    "def": "this"
   },
   "kol": {
     "pos": "preposition",
     "ipa": [
       "kɒl"
     ],
-    "def": [
-      "these",
-      ""
-    ]
+    "def": "these"
   },
   "kolt": {
     "pos": "preposition",
     "ipa": [
       "kɒlt"
     ],
-    "def": [
-      "those",
-      ""
-    ]
+    "def": "those"
   },
   "kor": {
     "pos": "preposition",
     "ipa": [
       "kɒʀ"
     ],
-    "def": [
-      "for",
-      ""
-    ]
+    "def": "for"
   },
   "köthri": {
     "pos": "verb",
@@ -2811,7 +2245,6 @@
       "koʊθri"
     ],
     "def": [
-      "season",
       "to season, as food"
     ]
   },
@@ -2821,7 +2254,6 @@
       "koʊθrɪn"
     ],
     "def": [
-      "seasoning",
       "seasoning, as for food"
     ]
   },
@@ -2830,20 +2262,14 @@
     "ipa": [
       "krɔːɪið"
     ],
-    "def": [
-      "broth",
-      ""
-    ]
+    "def": "broth"
   },
   "kralm": {
     "pos": "noun",
     "ipa": [
       "krɔːlm"
     ],
-    "def": [
-      "gold",
-      ""
-    ]
+    "def": "gold"
   },
   "krivi": {
     "pos": "verb",
@@ -2851,7 +2277,6 @@
       "krivi"
     ],
     "def": [
-      "endanger",
       "to endanger, through action or inaction"
     ]
   },
@@ -2860,30 +2285,21 @@
     "ipa": [
       "krivit"
     ],
-    "def": [
-      "danger",
-      ""
-    ]
+    "def": "danger"
   },
   "kroed": {
     "pos": "noun",
     "ipa": [
       "krɒeːd"
     ],
-    "def": [
-      "poem",
-      ""
-    ]
+    "def": "poem"
   },
   "krys": {
     "pos": "noun",
     "ipa": [
       "krys"
     ],
-    "def": [
-      "circle",
-      ""
-    ]
+    "def": "circle"
   },
   "krysi": {
     "pos": "verb",
@@ -2891,9 +2307,8 @@
       "krysi"
     ],
     "def": [
-      "circle",
       "to circle",
-      " to enclose, especially as in a circle or loop"
+      "to enclose, especially as in a circle or loop"
     ]
   },
   "kuita": {
@@ -2902,9 +2317,8 @@
       "kuitɔː"
     ],
     "def": [
-      "keep",
       "to keep",
-      " to tend to or maintain"
+      "to tend to or maintain"
     ]
   },
   "kuitan": {
@@ -2912,20 +2326,14 @@
     "ipa": [
       "kuitɔːn"
     ],
-    "def": [
-      "keeper/keep",
-      ""
-    ]
+    "def": "keeper/keep"
   },
   "kvangvadr": {
     "pos": "noun",
     "ipa": [
       "kvɔːngvɔːdʀ"
     ],
-    "def": [
-      "marriage",
-      ""
-    ]
+    "def": "marriage"
   },
   "kvat'mist": {
     "pos": "conjunction",
@@ -2933,7 +2341,6 @@
       "kvɔːt'miʃt"
     ],
     "def": [
-      "now that",
       "that occurs, lit."
     ]
   },
@@ -2942,10 +2349,7 @@
     "ipa": [
       "kyɔːt"
     ],
-    "def": [
-      "that",
-      ""
-    ]
+    "def": "that"
   },
   "kyá": {
     "pos": "noun",
@@ -2953,7 +2357,6 @@
       "kya"
     ],
     "def": [
-      "right",
       "right, as correctness"
     ]
   },
@@ -2963,9 +2366,8 @@
       "kyi"
     ],
     "def": [
-      "right",
       "to set to correctness (i.e. to right)",
-      " to correct something incorrect"
+      "to correct something incorrect"
     ]
   },
   "kyin": {
@@ -2974,7 +2376,6 @@
       "kyɪn"
     ],
     "def": [
-      "right",
       "directionally right"
     ]
   },
@@ -2984,7 +2385,6 @@
       "kyri"
     ],
     "def": [
-      "touch",
       "to touch"
     ]
   },
@@ -2993,30 +2393,21 @@
     "ipa": [
       "kyril"
     ],
-    "def": [
-      "touch",
-      ""
-    ]
+    "def": "touch"
   },
   "kyut": {
     "pos": "noun",
     "ipa": [
       "kyut"
     ],
-    "def": [
-      "idiot",
-      ""
-    ]
+    "def": "idiot"
   },
   "lann": {
     "pos": "noun",
     "ipa": [
       "lɔːnn"
     ],
-    "def": [
-      "crest",
-      ""
-    ]
+    "def": "crest"
   },
   "lanni": {
     "pos": "verb",
@@ -3024,9 +2415,8 @@
       "lɔːnni"
     ],
     "def": [
-      "crest",
       "to crest, to come to the peak of",
-      " to summit"
+      "to summit"
     ]
   },
   "letha": {
@@ -3035,9 +2425,8 @@
       "leːθɔː"
     ],
     "def": [
-      "slow",
       "to slow",
-      " to cause a reduction in an action or rate"
+      "to cause a reduction in an action or rate"
     ]
   },
   "let'sol": {
@@ -3046,7 +2435,6 @@
       "leːt'sɒl"
     ],
     "def": [
-      "first day",
       "first day of the week"
     ]
   },
@@ -3055,30 +2443,21 @@
     "ipa": [
       "lɪnʀ"
     ],
-    "def": [
-      "kind",
-      ""
-    ]
+    "def": "kind"
   },
   "loira": {
     "pos": "noun",
     "ipa": [
       "lɒirɔː"
     ],
-    "def": [
-      "mountain",
-      ""
-    ]
+    "def": "mountain"
   },
   "loira isenrin": {
     "pos": "noun",
     "ipa": [
       "lɒirɔː ɪt͡sɛnrɪn"
     ],
-    "def": [
-      "the mtn of the black guard",
-      ""
-    ]
+    "def": "the mtn of the black guard"
   },
   "losva": {
     "pos": "verb",
@@ -3086,9 +2465,8 @@
       "lɒ̞ʃvɔː"
     ],
     "def": [
-      "guide",
       "to guide",
-      " to lead with experience and wisdom"
+      "to lead with experience and wisdom"
     ]
   },
   "losvaec": {
@@ -3096,10 +2474,7 @@
     "ipa": [
       "lɒ̞ʃveːyk"
     ],
-    "def": [
-      "guide, leader",
-      ""
-    ]
+    "def": "guide, leader"
   },
   "ma": {
     "pos": "verb",
@@ -3107,9 +2482,8 @@
       "mɔː"
     ],
     "def": [
-      "hate",
       "to hate someone or something",
-      " to feel hate"
+      "to feel hate"
     ]
   },
   "malor": {
@@ -3117,10 +2491,7 @@
     "ipa": [
       "mɔːlɒʀ"
     ],
-    "def": [
-      "balance",
-      ""
-    ]
+    "def": "balance"
   },
   "malora": {
     "pos": "verb",
@@ -3128,7 +2499,6 @@
       "mɔːlɒrɔː"
     ],
     "def": [
-      "balance",
       "to balance"
     ]
   },
@@ -3137,10 +2507,7 @@
     "ipa": [
       "mɔːrʀ"
     ],
-    "def": [
-      "dirty",
-      ""
-    ]
+    "def": "dirty"
   },
   "marra": {
     "pos": "verb",
@@ -3148,9 +2515,8 @@
       "mɔːrrɔː"
     ],
     "def": [
-      "dirty",
       "to dirty or sully",
-      " to make something less clean"
+      "to make something less clean"
     ]
   },
   "mat": {
@@ -3158,20 +2524,14 @@
     "ipa": [
       "mɔːt"
     ],
-    "def": [
-      "hate",
-      ""
-    ]
+    "def": "hate"
   },
   "mer": {
     "pos": "noun",
     "ipa": [
       "meːʀ"
     ],
-    "def": [
-      "wet",
-      ""
-    ]
+    "def": "wet"
   },
   "mera": {
     "pos": "verb",
@@ -3179,7 +2539,6 @@
       "meːrɔː"
     ],
     "def": [
-      "wet",
       "to wet, to dampen"
     ]
   },
@@ -3188,10 +2547,7 @@
     "ipa": [
       "mik"
     ],
-    "def": [
-      "less",
-      ""
-    ]
+    "def": "less"
   },
   "mikra": {
     "pos": "verb",
@@ -3199,9 +2555,8 @@
       "mikrɔː"
     ],
     "def": [
-      "lessen",
       "to lessen",
-      " to reduce"
+      "to reduce"
     ]
   },
   "minael": {
@@ -3210,7 +2565,6 @@
       "mɪneːyl"
     ],
     "def": [
-      "fifth month",
       "fifth month of the year"
     ]
   },
@@ -3220,7 +2574,6 @@
       "mɪn'sɒl"
     ],
     "def": [
-      "fifth day",
       "fifth day of the week"
     ]
   },
@@ -3229,20 +2582,14 @@
     "ipa": [
       "mirdiʀ"
     ],
-    "def": [
-      "middle",
-      ""
-    ]
+    "def": "middle"
   },
   "mist'ot": {
     "pos": "conjunction",
     "ipa": [
       "miʃt'ɒʊt"
     ],
-    "def": [
-      "later",
-      ""
-    ]
+    "def": "later"
   },
   "mitael": {
     "pos": "noun",
@@ -3250,7 +2597,6 @@
       "miteːyl"
     ],
     "def": [
-      "seventh month",
       "seventh month of the year"
     ]
   },
@@ -3259,10 +2605,7 @@
     "ipa": [
       "mitt͡s"
     ],
-    "def": [
-      "now",
-      ""
-    ]
+    "def": "now"
   },
   "muina": {
     "pos": "verb",
@@ -3270,7 +2613,6 @@
       "muɪnɔː"
     ],
     "def": [
-      "destroy",
       "to destroy, to raze"
     ]
   },
@@ -3279,10 +2621,7 @@
     "ipa": [
       "muɪnɔːn"
     ],
-    "def": [
-      "destruction",
-      ""
-    ]
+    "def": "destruction"
   },
   "myrki": {
     "pos": "verb",
@@ -3290,9 +2629,8 @@
       "myrki"
     ],
     "def": [
-      "darken",
       "to darken",
-      " to eclipse"
+      "to eclipse"
     ]
   },
   "myrkí": {
@@ -3300,10 +2638,7 @@
     "ipa": [
       "myrkɪ"
     ],
-    "def": [
-      "darkness",
-      ""
-    ]
+    "def": "darkness"
   },
   "naemvha": {
     "pos": "conjunction",
@@ -3311,9 +2646,8 @@
       "neːymⱱɔː"
     ],
     "def": [
-      "empty",
       "to empty",
-      " to create a void"
+      "to create a void"
     ]
   },
   "naemvhar": {
@@ -3321,10 +2655,7 @@
     "ipa": [
       "neːymⱱɔːʀ"
     ],
-    "def": [
-      "nothing",
-      ""
-    ]
+    "def": "nothing"
   },
   "naeri": {
     "pos": "verb",
@@ -3332,9 +2663,8 @@
       "neːyri"
     ],
     "def": [
-      "remove",
       "to remove",
-      " to extract precisely, to excise"
+      "to extract precisely, to excise"
     ]
   },
   "naev'sol": {
@@ -3343,7 +2673,6 @@
       "neːyv'sɒl"
     ],
     "def": [
-      "seventh day",
       "seventh day of the week"
     ]
   },
@@ -3352,10 +2681,7 @@
     "ipa": [
       "nɔːll"
     ],
-    "def": [
-      "lake",
-      ""
-    ]
+    "def": "lake"
   },
   "nansa": {
     "pos": "verb",
@@ -3363,7 +2689,6 @@
       "nɔːnsɔː"
     ],
     "def": [
-      "doom",
       "to doom"
     ]
   },
@@ -3372,10 +2697,7 @@
     "ipa": [
       "nɔːnsa"
     ],
-    "def": [
-      "doom",
-      ""
-    ]
+    "def": "doom"
   },
   "nava": {
     "pos": "verb",
@@ -3383,7 +2705,6 @@
       "nɔːvɔː"
     ],
     "def": [
-      "swim",
       "to swim"
     ]
   },
@@ -3393,7 +2714,6 @@
       "nɔːveːɔː"
     ],
     "def": [
-      "water",
       "to water"
     ]
   },
@@ -3402,10 +2722,7 @@
     "ipa": [
       "nɔːveːm"
     ],
-    "def": [
-      "water",
-      ""
-    ]
+    "def": "water"
   },
   "nefra": {
     "pos": "verb",
@@ -3413,7 +2730,6 @@
       "neːfrɔː"
     ],
     "def": [
-      "name",
       "to name"
     ]
   },
@@ -3422,20 +2738,14 @@
     "ipa": [
       "neːfrɔːv"
     ],
-    "def": [
-      "name",
-      ""
-    ]
+    "def": "name"
   },
   "nidir": {
     "pos": "noun",
     "ipa": [
       "nidiʀ"
     ],
-    "def": [
-      "scion",
-      ""
-    ]
+    "def": "scion"
   },
   "nikali": {
     "pos": "verb",
@@ -3443,7 +2753,6 @@
       "nikɔːli"
     ],
     "def": [
-      "demand",
       "to demand"
     ]
   },
@@ -3452,80 +2761,56 @@
     "ipa": [
       "nikɔːlɪ"
     ],
-    "def": [
-      "demand",
-      ""
-    ]
+    "def": "demand"
   },
   "níraidh": {
     "pos": "noun",
     "ipa": [
       "nɪrɔːɪið"
     ],
-    "def": [
-      "human",
-      ""
-    ]
+    "def": "human"
   },
   "nod": {
     "pos": "noun",
     "ipa": [
       "nɒd"
     ],
-    "def": [
-      "north",
-      ""
-    ]
+    "def": "north"
   },
   "nodror": {
     "pos": "noun",
     "ipa": [
       "nɒdrɒʀ"
     ],
-    "def": [
-      "the northland",
-      ""
-    ]
+    "def": "the northland"
   },
   "noev": {
     "pos": "noun",
     "ipa": [
       "nɒeːv"
     ],
-    "def": [
-      "near",
-      ""
-    ]
+    "def": "near"
   },
   "novnír": {
     "pos": "noun",
     "ipa": [
       "nɒvnɪʀ"
     ],
-    "def": [
-      "woman",
-      ""
-    ]
+    "def": "woman"
   },
   "novraidh": {
     "pos": "noun",
     "ipa": [
       "nɒvrɔːɪið"
     ],
-    "def": [
-      "mother",
-      ""
-    ]
+    "def": "mother"
   },
   "oaetirn": {
     "pos": "conjunction",
     "ipa": [
       "ɒʊeːytirn"
     ],
-    "def": [
-      "never",
-      ""
-    ]
+    "def": "never"
   },
   "ofos": {
     "pos": "preposition",
@@ -3533,7 +2818,6 @@
       "ɒʊfɒ̞ʃ"
     ],
     "def": [
-      "below",
       "below, under"
     ]
   },
@@ -3542,20 +2826,14 @@
     "ipa": [
       "ɒʊfrɪn"
     ],
-    "def": [
-      "again",
-      ""
-    ]
+    "def": "again"
   },
   "ogrefa": {
     "pos": "noun",
     "ipa": [
       "ɒʊgreːfɔː"
     ],
-    "def": [
-      "misfortune",
-      ""
-    ]
+    "def": "misfortune"
   },
   "oldraivh": {
     "pos": "noun",
@@ -3563,7 +2841,6 @@
       "ɒʊldrɔːɪⱱ"
     ],
     "def": [
-      "human imperfection",
       "Uniquely mortal imperfections that are not inherently negative"
     ]
   },
@@ -3572,10 +2849,7 @@
     "ipa": [
       "ɒʊlt"
     ],
-    "def": [
-      "chill",
-      ""
-    ]
+    "def": "chill"
   },
   "olti": {
     "pos": "verb",
@@ -3583,9 +2857,8 @@
       "ɒʊlti"
     ],
     "def": [
-      "chill",
       "to chill",
-      " to make cold"
+      "to make cold"
     ]
   },
   "oprar": {
@@ -3593,20 +2866,14 @@
     "ipa": [
       "ɒʊprɔːʀ"
     ],
-    "def": [
-      "after",
-      ""
-    ]
+    "def": "after"
   },
   "orait": {
     "pos": "preposition",
     "ipa": [
       "ɒʊrɔːɪt"
     ],
-    "def": [
-      "from",
-      ""
-    ]
+    "def": "from"
   },
   "orathi": {
     "pos": "verb",
@@ -3614,9 +2881,8 @@
       "ɒʊrɔːθi"
     ],
     "def": [
-      "follow",
       "to follow",
-      " to obey"
+      "to obey"
     ]
   },
   "orisk": {
@@ -3624,20 +2890,14 @@
     "ipa": [
       "ɒʊriʃk"
     ],
-    "def": [
-      "in",
-      ""
-    ]
+    "def": "in"
   },
   "oset": {
     "pos": "noun",
     "ipa": [
       "ɒʊ̞ʃeːt"
     ],
-    "def": [
-      "debt",
-      ""
-    ]
+    "def": "debt"
   },
   "osetli": {
     "pos": "verb",
@@ -3645,7 +2905,6 @@
       "ɒʊ̞ʃeːtli"
     ],
     "def": [
-      "owe",
       "to owe, to owe a debt"
     ]
   },
@@ -3654,20 +2913,14 @@
     "ipa": [
       "ɒʊ̞ʃoʊʀ"
     ],
-    "def": [
-      "nor",
-      ""
-    ]
+    "def": "nor"
   },
   "osren": {
     "pos": "noun",
     "ipa": [
       "ɒʊ̞ʃreːn"
     ],
-    "def": [
-      "home",
-      ""
-    ]
+    "def": "home"
   },
   "osvetliv": {
     "pos": "noun",
@@ -3676,8 +2929,7 @@
     ],
     "def": [
       "oxygen",
-      "oxygen",
-      " breathable air"
+      "breathable air"
     ]
   },
   "otaoil": {
@@ -3686,7 +2938,6 @@
       "ɒʊtɔːɒil"
     ],
     "def": [
-      "scale",
       "to remove scales, to descale"
     ]
   },
@@ -3695,10 +2946,7 @@
     "ipa": [
       "ɒʊteːvɔːʀ"
     ],
-    "def": [
-      "behind",
-      ""
-    ]
+    "def": "behind"
   },
   "ot'mist'in": {
     "pos": "conjunction",
@@ -3706,7 +2954,6 @@
       "ɒʊt'miʃt'ɪn"
     ],
     "def": [
-      "recently",
       "recently: lit. dim. passage of time backwards"
     ]
   },
@@ -3716,7 +2963,6 @@
       "ɒʊvɔːrɒn"
     ],
     "def": [
-      "incomprehensible",
       "beyond comprehension or understanding"
     ]
   },
@@ -3726,9 +2972,8 @@
       "ɒʊvɒ̞ʃkɔː"
     ],
     "def": [
-      "return",
       "to return, to give back",
-      " to return to something/someone"
+      "to return to something/someone"
     ]
   },
   "o'day'id": {
@@ -3736,40 +2981,28 @@
     "ipa": [
       "ɒʊ'deːɪ'id"
     ],
-    "def": [
-      "not only",
-      ""
-    ]
+    "def": "not only"
   },
   "o'tevar": {
     "pos": "preposition",
     "ipa": [
       "ɒʊ'teːvɔːʀ"
     ],
-    "def": [
-      "behind",
-      ""
-    ]
+    "def": "behind"
   },
   "o'thal": {
     "pos": "adjective",
     "ipa": [
       "ɒʊ'θɔːl"
     ],
-    "def": [
-      "old",
-      ""
-    ]
+    "def": "old"
   },
   "o'vhar'os": {
     "pos": "idiom",
     "ipa": [
       "ɒʊ'ⱱɔːr'ɒʊ̞ʃ"
     ],
-    "def": [
-      "no such thing",
-      ""
-    ]
+    "def": "no such thing"
   },
   "ögcabáh": {
     "pos": "noun",
@@ -3777,9 +3010,8 @@
       "oʊgkæva"
     ],
     "def": [
-      "element",
       "element, component part",
-      " chemical or alchemical element"
+      "chemical or alchemical element"
     ]
   },
   "pramisto": {
@@ -3788,7 +3020,6 @@
       "prɔːmiʃtɒ"
     ],
     "def": [
-      "by the time",
       "by the time: lit. before later"
     ]
   },
@@ -3797,10 +3028,7 @@
     "ipa": [
       "prɔːʀ"
     ],
-    "def": [
-      "before",
-      ""
-    ]
+    "def": "before"
   },
   "pratir": {
     "pos": "noun",
@@ -3808,7 +3036,6 @@
       "prɔːtiʀ"
     ],
     "def": [
-      "tenth month",
       "tenth month of the year"
     ]
   },
@@ -3818,7 +3045,6 @@
       "prɒ̞ʃtɪn"
     ],
     "def": [
-      "present",
       "present time"
     ]
   },
@@ -3828,10 +3054,9 @@
       "rɔː"
     ],
     "def": [
-      "light",
       "to light, to illuminate",
-      " to turn on a light",
-      " to light as a torch or lantern"
+      "to turn on a light",
+      "to light as a torch or lantern"
     ]
   },
   "rachaidh": {
@@ -3839,10 +3064,7 @@
     "ipa": [
       "rɔːxɔːɪið"
     ],
-    "def": [
-      "wisdom",
-      ""
-    ]
+    "def": "wisdom"
   },
   "radha": {
     "pos": "verb",
@@ -3850,7 +3072,6 @@
       "rɔːðɔː"
     ],
     "def": [
-      "control",
       "to control"
     ]
   },
@@ -3859,10 +3080,7 @@
     "ipa": [
       "rɔːðɔːn"
     ],
-    "def": [
-      "control",
-      ""
-    ]
+    "def": "control"
   },
   "raetir": {
     "pos": "noun",
@@ -3870,7 +3088,6 @@
       "reːytiʀ"
     ],
     "def": [
-      "celebration, wake, funeral",
       "a celebration, party of remembrance"
     ]
   },
@@ -3880,7 +3097,6 @@
       "reːytirɔː"
     ],
     "def": [
-      "celebrate",
       "to celebrate a life, lost or coming to an end"
     ]
   },
@@ -3889,10 +3105,7 @@
     "ipa": [
       "rə"
     ],
-    "def": [
-      "light",
-      ""
-    ]
+    "def": "light"
   },
   "rains": {
     "pos": "noun",
@@ -3900,7 +3113,6 @@
       "rɔːɪns"
     ],
     "def": [
-      "laugh",
       "laugh or laughter"
     ]
   },
@@ -3910,7 +3122,6 @@
       "rɔːɪnsɔː"
     ],
     "def": [
-      "laugh",
       "to laugh"
     ]
   },
@@ -3919,20 +3130,14 @@
     "ipa": [
       "rɔːkvɔːɪʃ"
     ],
-    "def": [
-      "crystal",
-      ""
-    ]
+    "def": "crystal"
   },
   "ralnach": {
     "pos": "noun",
     "ipa": [
       "rɔːlnɔːx"
     ],
-    "def": [
-      "money",
-      ""
-    ]
+    "def": "money"
   },
   "rasra": {
     "pos": "verb",
@@ -3940,7 +3145,6 @@
       "rɔːsrɔː"
     ],
     "def": [
-      "stumble",
       "to stumble or trip"
     ]
   },
@@ -3949,10 +3153,7 @@
     "ipa": [
       "rɔːsrɔːn"
     ],
-    "def": [
-      "stumbling point",
-      ""
-    ]
+    "def": "stumbling point"
   },
   "ratha": {
     "pos": "verb",
@@ -3960,7 +3161,6 @@
       "rɔːθɔː"
     ],
     "def": [
-      "court",
       "to court, to engage consistently"
     ]
   },
@@ -3969,40 +3169,28 @@
     "ipa": [
       "rɔːθɔːn"
     ],
-    "def": [
-      "court",
-      ""
-    ]
+    "def": "court"
   },
   "ravadh": {
     "pos": "noun",
     "ipa": [
       "rɔːvɔːð"
     ],
-    "def": [
-      "elder",
-      ""
-    ]
+    "def": "elder"
   },
   "re": {
     "pos": "conjunction",
     "ipa": [
       "reː"
     ],
-    "def": [
-      "or",
-      ""
-    ]
+    "def": "or"
   },
   "reask": {
     "pos": "noun",
     "ipa": [
       "reːɔːsk"
     ],
-    "def": [
-      "son",
-      ""
-    ]
+    "def": "son"
   },
   "rema": {
     "pos": "verb",
@@ -4010,9 +3198,8 @@
       "reːmɔː"
     ],
     "def": [
-      "run",
       "to run",
-      " to flee"
+      "to flee"
     ]
   },
   "reman": {
@@ -4020,20 +3207,14 @@
     "ipa": [
       "reːmɔːn"
     ],
-    "def": [
-      "run",
-      ""
-    ]
+    "def": "run"
   },
   "ri": {
     "pos": "preposition",
     "ipa": [
       "ri"
     ],
-    "def": [
-      "of",
-      ""
-    ]
+    "def": "of"
   },
   "ria": {
     "pos": "verb",
@@ -4041,7 +3222,6 @@
       "riɔː"
     ],
     "def": [
-      "draw",
       "to draw on or from as of experience"
     ]
   },
@@ -4051,7 +3231,6 @@
       "riɔːt"
     ],
     "def": [
-      "draw",
       "attraction or appeal"
     ]
   },
@@ -4061,7 +3240,6 @@
       "ridɒrɔː"
     ],
     "def": [
-      "edge",
       "to edge along, to walk an edge"
     ]
   },
@@ -4070,10 +3248,7 @@
     "ipa": [
       "ridɒreː"
     ],
-    "def": [
-      "edge",
-      ""
-    ]
+    "def": "edge"
   },
   "rikvata": {
     "pos": "verb",
@@ -4081,9 +3256,8 @@
       "rikvɔːtɔː"
     ],
     "def": [
-      "break",
       "to break or fracture",
-      " to break, as a bone"
+      "to break, as a bone"
     ]
   },
   "rikvataern": {
@@ -4092,9 +3266,8 @@
       "rikvɔːteːyrn"
     ],
     "def": [
-      "break",
       "a break or fracture",
-      " a jagged edge"
+      "a jagged edge"
     ]
   },
   "rin": {
@@ -4102,10 +3275,7 @@
     "ipa": [
       "rɪn"
     ],
-    "def": [
-      "guard",
-      ""
-    ]
+    "def": "guard"
   },
   "rina": {
     "pos": "verb",
@@ -4113,7 +3283,6 @@
       "rɪnɔː"
     ],
     "def": [
-      "guard",
       "to guard, to defend"
     ]
   },
@@ -4122,40 +3291,28 @@
     "ipa": [
       "riʃ"
     ],
-    "def": [
-      "place",
-      ""
-    ]
+    "def": "place"
   },
   "risnír": {
     "pos": "noun",
     "ipa": [
       "riʃnɪʀ"
     ],
-    "def": [
-      "man",
-      ""
-    ]
+    "def": "man"
   },
   "risvaidh": {
     "pos": "noun",
     "ipa": [
       "riʃvɔːɪið"
     ],
-    "def": [
-      "father",
-      ""
-    ]
+    "def": "father"
   },
   "ris'valeth": {
     "pos": "noun",
     "ipa": [
       "riʃ'vɔːleːθ"
     ],
-    "def": [
-      "marketplace",
-      ""
-    ]
+    "def": "marketplace"
   },
   "rithani": {
     "pos": "verb",
@@ -4163,7 +3320,6 @@
       "riθɔːni"
     ],
     "def": [
-      "leave",
       "to leave"
     ]
   },
@@ -4172,20 +3328,14 @@
     "ipa": [
       "ri'ælvɔːɪið"
     ],
-    "def": [
-      "for the purpose of",
-      ""
-    ]
+    "def": "for the purpose of"
   },
   "ri'wae": {
     "pos": "noun",
     "ipa": [
       "ri'weːɪ"
     ],
-    "def": [
-      "sacred will",
-      ""
-    ]
+    "def": "sacred will"
   },
   "roda": {
     "pos": "verb",
@@ -4193,9 +3343,8 @@
       "rɒdɔː"
     ],
     "def": [
-      "reach",
       "to reach",
-      " to arrive at"
+      "to arrive at"
     ]
   },
   "rodan": {
@@ -4203,20 +3352,14 @@
     "ipa": [
       "rɒdɔːn"
     ],
-    "def": [
-      "reach",
-      ""
-    ]
+    "def": "reach"
   },
   "rodis": {
     "pos": "adjective",
     "ipa": [
       "rɒdiʃ"
     ],
-    "def": [
-      "difficult",
-      ""
-    ]
+    "def": "difficult"
   },
   "ruka": {
     "pos": "verb",
@@ -4224,9 +3367,8 @@
       "rukɔː"
     ],
     "def": [
-      "believe",
       "to believe",
-      " to have faith"
+      "to have faith"
     ]
   },
   "rü": {
@@ -4234,10 +3376,7 @@
     "ipa": [
       "roʊ"
     ],
-    "def": [
-      "fate",
-      ""
-    ]
+    "def": "fate"
   },
   "rüa": {
     "pos": "verb",
@@ -4245,9 +3384,8 @@
       "roʊɔː"
     ],
     "def": [
-      "fate",
       "to fate",
-      " to condemn to one's fate"
+      "to condemn to one's fate"
     ]
   },
   "rükias": {
@@ -4255,30 +3393,21 @@
     "ipa": [
       "roʊkiɔːs"
     ],
-    "def": [
-      "faith",
-      ""
-    ]
+    "def": "faith"
   },
   "rü'saec": {
     "pos": "noun",
     "ipa": [
       "roʊ'ʃeːɪɔx"
     ],
-    "def": [
-      "true bond",
-      ""
-    ]
+    "def": "true bond"
   },
   "saec": {
     "pos": "noun",
     "ipa": [
       "ʃeːɪɔx"
     ],
-    "def": [
-      "bond",
-      ""
-    ]
+    "def": "bond"
   },
   "saei": {
     "pos": "verb",
@@ -4286,9 +3415,8 @@
       "seːyi"
     ],
     "def": [
-      "bond",
       "to bond (with someone or something)",
-      " to join together permanently"
+      "to join together permanently"
     ]
   },
   "saln": {
@@ -4296,10 +3424,7 @@
     "ipa": [
       "sɔːln"
     ],
-    "def": [
-      "home",
-      ""
-    ]
+    "def": "home"
   },
   "sannacha": {
     "pos": "verb",
@@ -4307,7 +3432,6 @@
       "sɔːnnɔːxɔː"
     ],
     "def": [
-      "smile",
       "to smile"
     ]
   },
@@ -4316,10 +3440,7 @@
     "ipa": [
       "sɔːnnɔːxɔːɒ̞ʃ"
     ],
-    "def": [
-      "smile",
-      ""
-    ]
+    "def": "smile"
   },
   "sannaga": {
     "pos": "verb",
@@ -4327,7 +3448,6 @@
       "sɔːnnɔːgɔː"
     ],
     "def": [
-      "speak",
       "to speak"
     ]
   },
@@ -4336,30 +3456,21 @@
     "ipa": [
       "sɔːnnɔːgɔːt"
     ],
-    "def": [
-      "speech",
-      ""
-    ]
+    "def": "speech"
   },
   "sanvach": {
     "pos": "noun",
     "ipa": [
       "sɔːnvɔːx"
     ],
-    "def": [
-      "mouth",
-      ""
-    ]
+    "def": "mouth"
   },
   "sanvil": {
     "pos": "noun",
     "ipa": [
       "sɔːnvil"
     ],
-    "def": [
-      "glacier",
-      ""
-    ]
+    "def": "glacier"
   },
   "sefla": {
     "pos": "verb",
@@ -4367,7 +3478,6 @@
       "seːflɔː"
     ],
     "def": [
-      "make",
       "to make, to create"
     ]
   },
@@ -4376,10 +3486,7 @@
     "ipa": [
       "seːreː"
     ],
-    "def": [
-      "magic",
-      ""
-    ]
+    "def": "magic"
   },
   "serei": {
     "pos": "verb",
@@ -4387,7 +3494,6 @@
       "seːreːi"
     ],
     "def": [
-      "magic",
       "to magic (someone or something)"
     ]
   },
@@ -4396,10 +3502,7 @@
     "ipa": [
       "sieːʀ"
     ],
-    "def": [
-      "rain",
-      ""
-    ]
+    "def": "rain"
   },
   "sieri": {
     "pos": "verb",
@@ -4407,7 +3510,6 @@
       "sieːri"
     ],
     "def": [
-      "rain",
       "to rain"
     ]
   },
@@ -4416,40 +3518,28 @@
     "ipa": [
       "skoʊlviʀ"
     ],
-    "def": [
-      "courage",
-      ""
-    ]
+    "def": "courage"
   },
   "soe": {
     "pos": "noun",
     "ipa": [
       "sɒeː"
     ],
-    "def": [
-      "low/below",
-      ""
-    ]
+    "def": "low/below"
   },
   "soej": {
     "pos": "noun",
     "ipa": [
       "sɒeːd͡ʒ"
     ],
-    "def": [
-      "bottom",
-      ""
-    ]
+    "def": "bottom"
   },
   "soejin": {
     "pos": "noun",
     "ipa": [
       "sɒeːd͡ʒɪn"
     ],
-    "def": [
-      "beneath",
-      ""
-    ]
+    "def": "beneath"
   },
   "soejra": {
     "pos": "verb",
@@ -4457,7 +3547,6 @@
       "sɒeːd͡ʒrɔː"
     ],
     "def": [
-      "lower",
       "to lower"
     ]
   },
@@ -4467,9 +3556,8 @@
       "sɒkri"
     ],
     "def": [
-      "mist",
       "to mist",
-      " to wet slightly, generally with a fine spray"
+      "to wet slightly, generally with a fine spray"
     ]
   },
   "sokril": {
@@ -4477,10 +3565,7 @@
     "ipa": [
       "sɒkril"
     ],
-    "def": [
-      "mist",
-      ""
-    ]
+    "def": "mist"
   },
   "solael": {
     "pos": "noun",
@@ -4488,7 +3573,6 @@
       "sɒleːyl"
     ],
     "def": [
-      "second month",
       "second month of the year"
     ]
   },
@@ -4497,10 +3581,7 @@
     "ipa": [
       "sɒlxɔːɪv"
     ],
-    "def": [
-      "dance",
-      ""
-    ]
+    "def": "dance"
   },
   "solchaiva": {
     "pos": "verb",
@@ -4508,7 +3589,6 @@
       "sɒlxɔːɪvɔː"
     ],
     "def": [
-      "dance",
       "to dance"
     ]
   },
@@ -4518,7 +3598,6 @@
       "sɒlmit"
     ],
     "def": [
-      "first month",
       "first month of the year"
     ]
   },
@@ -4527,10 +3606,7 @@
     "ipa": [
       "sɒnil"
     ],
-    "def": [
-      "world",
-      ""
-    ]
+    "def": "world"
   },
   "sorch": {
     "pos": "noun",
@@ -4538,7 +3614,6 @@
       "sɒrx"
     ],
     "def": [
-      "fish",
       "any fishes large enough to eat and good for eating."
     ]
   },
@@ -4548,7 +3623,6 @@
       "sɒrxɔː"
     ],
     "def": [
-      "fish",
       "to fish, the act of catching fish"
     ]
   },
@@ -4558,7 +3632,6 @@
       "soʊgrɔː"
     ],
     "def": [
-      "retell",
       "to retell, as a story"
     ]
   },
@@ -4567,20 +3640,14 @@
     "ipa": [
       "soʊʀ"
     ],
-    "def": [
-      "and",
-      ""
-    ]
+    "def": "and"
   },
   "sörin": {
     "pos": "adverb",
     "ipa": [
       "soʊrɪn"
     ],
-    "def": [
-      "together",
-      ""
-    ]
+    "def": "together"
   },
   "sörinsaiöch": {
     "pos": "idiom",
@@ -4588,7 +3655,6 @@
       "soʊrɪnsɔːɪoʊx"
     ],
     "def": [
-      "together with luck",
       "\"Against the odds\" or \"in spite of everything\". Used to convey the occurence of something that should not have happened."
     ]
   },
@@ -4598,7 +3664,6 @@
       "soʊrliɔː"
     ],
     "def": [
-      "compassion",
       "to feel compassion"
     ]
   },
@@ -4607,40 +3672,28 @@
     "ipa": [
       "soʊrliɔːn"
     ],
-    "def": [
-      "compassion",
-      ""
-    ]
+    "def": "compassion"
   },
   "sör'an": {
     "pos": "conjunction",
     "ipa": [
       "soʊr'æn"
     ],
-    "def": [
-      "both",
-      ""
-    ]
+    "def": "both"
   },
   "sto": {
     "pos": "conjunction",
     "ipa": [
       "stɒ"
     ],
-    "def": [
-      "but",
-      ""
-    ]
+    "def": "but"
   },
   "storau": {
     "pos": "conjunction",
     "ipa": [
       "stɒrɔːʌ"
     ],
-    "def": [
-      "Although",
-      ""
-    ]
+    "def": "Although"
   },
   "svaya": {
     "pos": "verb",
@@ -4648,7 +3701,6 @@
       "sveːɪɔː"
     ],
     "def": [
-      "lose sight of",
       "to lose sight of, esp. losing the details for the greater good."
     ]
   },
@@ -4657,20 +3709,14 @@
     "ipa": [
       "sveːɪɔːn"
     ],
-    "def": [
-      "lost within purpose",
-      ""
-    ]
+    "def": "lost within purpose"
   },
   "sycá": {
     "pos": "noun",
     "ipa": [
       "syka"
     ],
-    "def": [
-      "daughter",
-      ""
-    ]
+    "def": "daughter"
   },
   "tachri": {
     "pos": "verb",
@@ -4678,10 +3724,9 @@
       "tɔːxri"
     ],
     "def": [
-      "give",
       "to give",
-      " to gift",
-      " to donate"
+      "to gift",
+      "to donate"
     ]
   },
   "taelva": {
@@ -4690,9 +3735,8 @@
       "teːylvɔː"
     ],
     "def": [
-      "void",
       "to void",
-      " to remove with abandon"
+      "to remove with abandon"
     ]
   },
   "taelvar": {
@@ -4700,20 +3744,14 @@
     "ipa": [
       "teːylvɔːʀ"
     ],
-    "def": [
-      "void",
-      ""
-    ]
+    "def": "void"
   },
   "taern": {
     "pos": "adverb",
     "ipa": [
       "teːyrn"
     ],
-    "def": [
-      "often",
-      ""
-    ]
+    "def": "often"
   },
   "tak": {
     "pos": "noun",
@@ -4721,7 +3759,6 @@
       "tɔːk"
     ],
     "def": [
-      "bone",
       "a bone"
     ]
   },
@@ -4731,9 +3768,8 @@
       "tɔːlrɔː"
     ],
     "def": [
-      "sanctify",
       "to sanctify or make holy",
-      " to protect with magic"
+      "to protect with magic"
     ]
   },
   "talrae": {
@@ -4741,40 +3777,28 @@
     "ipa": [
       "tɔːlreːy"
     ],
-    "def": [
-      "sacred",
-      ""
-    ]
+    "def": "sacred"
   },
   "tanmai": {
     "pos": "adjective",
     "ipa": [
       "tɔːnmɔːɪ"
     ],
-    "def": [
-      "together",
-      ""
-    ]
+    "def": "together"
   },
   "taoil": {
     "pos": "noun",
     "ipa": [
       "tɔːɒil"
     ],
-    "def": [
-      "scale",
-      ""
-    ]
+    "def": "scale"
   },
   "tarich": {
     "pos": "noun",
     "ipa": [
       "tɔːrix"
     ],
-    "def": [
-      "rage",
-      ""
-    ]
+    "def": "rage"
   },
   "taricha": {
     "pos": "verb",
@@ -4782,9 +3806,8 @@
       "tɔːrixɔː"
     ],
     "def": [
-      "rage",
       "to rage",
-      " to feel anger"
+      "to feel anger"
     ]
   },
   "tashra": {
@@ -4793,7 +3816,6 @@
       "tɔːʃrɔː"
     ],
     "def": [
-      "tease",
       "to tease or mock"
     ]
   },
@@ -4802,30 +3824,21 @@
     "ipa": [
       "tɔːʃrɔːl"
     ],
-    "def": [
-      "joke",
-      ""
-    ]
+    "def": "joke"
   },
   "taslaech": {
     "pos": "noun",
     "ipa": [
       "tɔːʃleːyx"
     ],
-    "def": [
-      "coterie",
-      ""
-    ]
+    "def": "coterie"
   },
   "tav": {
     "pos": "noun",
     "ipa": [
       "tɔːv"
     ],
-    "def": [
-      "plan",
-      ""
-    ]
+    "def": "plan"
   },
   "tava": {
     "pos": "verb",
@@ -4833,7 +3846,6 @@
       "tɔːvɔː"
     ],
     "def": [
-      "plan",
       "to plan"
     ]
   },
@@ -4843,7 +3855,6 @@
       "teːɪl'sɒl"
     ],
     "def": [
-      "eighth day",
       "eighth day of the week"
     ]
   },
@@ -4852,20 +3863,14 @@
     "ipa": [
       "tɔː'ʃeːɪɔx"
     ],
-    "def": [
-      "coterie bond",
-      ""
-    ]
+    "def": "coterie bond"
   },
   "teach": {
     "pos": "noun",
     "ipa": [
       "teːɔːx"
     ],
-    "def": [
-      "fire",
-      ""
-    ]
+    "def": "fire"
   },
   "teachi": {
     "pos": "verb",
@@ -4873,7 +3878,6 @@
       "teːɔːxi"
     ],
     "def": [
-      "burn",
       "to burn"
     ]
   },
@@ -4883,7 +3887,6 @@
       "teːɔːxiʃrɔː"
     ],
     "def": [
-      "incinerate",
       "to incinerate"
     ]
   },
@@ -4892,20 +3895,14 @@
     "ipa": [
       "teːɔːxiʃrɔːl"
     ],
-    "def": [
-      "wildfire",
-      ""
-    ]
+    "def": "wildfire"
   },
   "teachsoln": {
     "pos": "noun",
     "ipa": [
       "teːɔːxsɒln"
     ],
-    "def": [
-      "fireplace",
-      ""
-    ]
+    "def": "fireplace"
   },
   "tefna": {
     "pos": "verb",
@@ -4913,9 +3910,8 @@
       "teːfnɔː"
     ],
     "def": [
-      "summon",
       "to summon",
-      " to call forth"
+      "to call forth"
     ]
   },
   "tefná": {
@@ -4923,30 +3919,21 @@
     "ipa": [
       "teːfna"
     ],
-    "def": [
-      "summon",
-      ""
-    ]
+    "def": "summon"
   },
   "tevar": {
     "pos": "preposition",
     "ipa": [
       "teːvɔːʀ"
     ],
-    "def": [
-      "ahead",
-      ""
-    ]
+    "def": "ahead"
   },
   "thal": {
     "pos": "adjective",
     "ipa": [
       "θɔːl"
     ],
-    "def": [
-      "new",
-      ""
-    ]
+    "def": "new"
   },
   "thra": {
     "pos": "verb",
@@ -4954,7 +3941,6 @@
       "θrɔː"
     ],
     "def": [
-      "throw",
       "to throw, to hurl"
     ]
   },
@@ -4963,80 +3949,56 @@
     "ipa": [
       "θra"
     ],
-    "def": [
-      "throw",
-      ""
-    ]
+    "def": "throw"
   },
   "thril": {
     "pos": "noun",
     "ipa": [
       "θril"
     ],
-    "def": [
-      "night",
-      ""
-    ]
+    "def": "night"
   },
   "thurszaz": {
     "pos": "noun",
     "ipa": [
       "θurɮɔːt͡s"
     ],
-    "def": [
-      "giant",
-      ""
-    ]
+    "def": "giant"
   },
   "tianu": {
     "pos": "noun",
     "ipa": [
       "tiɔːnʌ"
     ],
-    "def": [
-      "the belief that everything happens for a reason",
-      ""
-    ]
+    "def": "the belief that everything happens for a reason"
   },
   "tih": {
     "pos": "noun",
     "ipa": [
       "ti"
     ],
-    "def": [
-      "lifeforce",
-      ""
-    ]
+    "def": "lifeforce"
   },
   "tin": {
     "pos": "noun",
     "ipa": [
       "tɪn"
     ],
-    "def": [
-      "warrior",
-      ""
-    ]
+    "def": "warrior"
   },
   "tísvach": {
     "pos": "noun",
     "ipa": [
       "tɪsvɔːx"
     ],
-    "def": [
-      "husband",
-      ""
-    ]
+    "def": "husband"
   },
   "tov": {
     "pos": "noun",
     "ipa": [
       "tɒv"
     ],
-    "def": [
-      "stew",
-      ""
-    ]
+    "def": "stew"
   },
   "tova": {
     "pos": "verb",
@@ -5044,9 +4006,8 @@
       "tɒvɔː"
     ],
     "def": [
-      "stew",
       "to stew",
-      " to cook for a long period"
+      "to cook for a long period"
     ]
   },
   "traidhym": {
@@ -5055,9 +4016,8 @@
       "trɔːɪiðym"
     ],
     "def": [
-      "reflection",
       "a reflection",
-      " a mirror"
+      "a mirror"
     ]
   },
   "traidhymi": {
@@ -5066,7 +4026,6 @@
       "trɔːɪiðymi"
     ],
     "def": [
-      "reflect",
       "to reflect, to mirror"
     ]
   },
@@ -5076,7 +4035,6 @@
       "trɔːvɔː"
     ],
     "def": [
-      "sad",
       "to feel or be sad"
     ]
   },
@@ -5085,20 +4043,14 @@
     "ipa": [
       "trɔːvɔːs"
     ],
-    "def": [
-      "sadness",
-      ""
-    ]
+    "def": "sadness"
   },
   "travas'it": {
     "pos": "adverb",
     "ipa": [
       "trɔːvɔːs'it"
     ],
-    "def": [
-      "sadly",
-      ""
-    ]
+    "def": "sadly"
   },
   "tria": {
     "pos": "verb",
@@ -5106,9 +4058,8 @@
       "triɔː"
     ],
     "def": [
-      "cycle",
       "to cycle",
-      " to change or oscillate in a cyclical manner"
+      "to change or oscillate in a cyclical manner"
     ]
   },
   "triat": {
@@ -5117,9 +4068,8 @@
       "triɔːt"
     ],
     "def": [
-      "cycle",
       "a repeating period",
-      " a cycle"
+      "a cycle"
     ]
   },
   "tsaidh": {
@@ -5128,9 +4078,8 @@
       "t͡sɔːɪið"
     ],
     "def": [
-      "set",
       "a set",
-      " a complete collection"
+      "a complete collection"
     ]
   },
   "tsaln": {
@@ -5138,10 +4087,7 @@
     "ipa": [
       "t͡sɔːln"
     ],
-    "def": [
-      "beyond",
-      ""
-    ]
+    "def": "beyond"
   },
   "tsela": {
     "pos": "verb",
@@ -5149,9 +4095,8 @@
       "t͡seːlɔː"
     ],
     "def": [
-      "hold dear",
       "to hold dear or close",
-      " to treasure"
+      "to treasure"
     ]
   },
   "tselá": {
@@ -5159,20 +4104,14 @@
     "ipa": [
       "t͡seːla"
     ],
-    "def": [
-      "dear one/dear heart",
-      ""
-    ]
+    "def": "dear one/dear heart"
   },
   "tsenovach": {
     "pos": "noun",
     "ipa": [
       "t͡seːnɒvɔːx"
     ],
-    "def": [
-      "wife",
-      ""
-    ]
+    "def": "wife"
   },
   "tuis": {
     "pos": "noun",
@@ -5180,7 +4119,6 @@
       "tuiʃ"
     ],
     "def": [
-      "jug",
       "a jug, amphora, or other container for liquid"
     ]
   },
@@ -5190,7 +4128,6 @@
       "tyðɔː"
     ],
     "def": [
-      "allow",
       "to allow, to let (something happen)"
     ]
   },
@@ -5200,7 +4137,6 @@
       "tyðɔːɪm"
     ],
     "def": [
-      "allowance",
       "an act that is especially permitted, an allowance (non-monetary)"
     ]
   },
@@ -5210,7 +4146,6 @@
       "tyðɔːɪʃ"
     ],
     "def": [
-      "concession",
       "something that is conceded"
     ]
   },
@@ -5219,10 +4154,7 @@
     "ipa": [
       "tyðeː"
     ],
-    "def": [
-      "time",
-      ""
-    ]
+    "def": "time"
   },
   "tydhea": {
     "pos": "verb",
@@ -5230,7 +4162,6 @@
       "tyðeːɔː"
     ],
     "def": [
-      "time",
       "to measure time"
     ]
   },
@@ -5240,10 +4171,9 @@
       "tyði"
     ],
     "def": [
-      "concede",
       "to concede",
-      " to give up as part of a negotiation",
-      " to admit defeat"
+      "to give up as part of a negotiation",
+      "to admit defeat"
     ]
   },
   "tyraidh": {
@@ -5251,40 +4181,28 @@
     "ipa": [
       "tyrɔːɪið"
     ],
-    "def": [
-      "veil",
-      ""
-    ]
+    "def": "veil"
   },
   "tyron": {
     "pos": "noun",
     "ipa": [
       "tyrɒn"
     ],
-    "def": [
-      "eclipse",
-      ""
-    ]
+    "def": "eclipse"
   },
   "tziu": {
     "pos": "noun",
     "ipa": [
       "tt͡siʌ"
     ],
-    "def": [
-      "peace",
-      ""
-    ]
+    "def": "peace"
   },
   "ulast": {
     "pos": "noun",
     "ipa": [
       "ulɔːst"
     ],
-    "def": [
-      "people",
-      ""
-    ]
+    "def": "people"
   },
   "ulasti": {
     "pos": "verb",
@@ -5292,7 +4210,6 @@
       "ulɔːsti"
     ],
     "def": [
-      "populate",
       "to populate, as with people"
     ]
   },
@@ -5301,20 +4218,14 @@
     "ipa": [
       "ulɔːstɪn"
     ],
-    "def": [
-      "folk",
-      ""
-    ]
+    "def": "folk"
   },
   "urotr": {
     "pos": "noun",
     "ipa": [
       "urɒtʀ"
     ],
-    "def": [
-      "gate",
-      ""
-    ]
+    "def": "gate"
   },
   "urotra": {
     "pos": "verb",
@@ -5322,9 +4233,8 @@
       "urɒtrɔː"
     ],
     "def": [
-      "gate",
       "to gate",
-      " to block the way"
+      "to block the way"
     ]
   },
   "uruch": {
@@ -5332,10 +4242,7 @@
     "ipa": [
       "urux"
     ],
-    "def": [
-      "against",
-      ""
-    ]
+    "def": "against"
   },
   "vaeladh": {
     "pos": "noun",
@@ -5344,8 +4251,7 @@
     ],
     "def": [
       "pottery",
-      "pottery",
-      " earthen or stonewares"
+      "earthen or stonewares"
     ]
   },
   "vaer": {
@@ -5353,10 +4259,7 @@
     "ipa": [
       "veːyʀ"
     ],
-    "def": [
-      "blood",
-      ""
-    ]
+    "def": "blood"
   },
   "vaeri": {
     "pos": "verb",
@@ -5364,9 +4267,8 @@
       "veːyri"
     ],
     "def": [
-      "bleed",
       "to bleed",
-      " to bloody"
+      "to bloody"
     ]
   },
   "vaerit": {
@@ -5374,30 +4276,21 @@
     "ipa": [
       "veːyrit"
     ],
-    "def": [
-      "heart",
-      ""
-    ]
+    "def": "heart"
   },
   "vaet": {
     "pos": "noun",
     "ipa": [
       "veːyt"
     ],
-    "def": [
-      "nature",
-      ""
-    ]
+    "def": "nature"
   },
   "vaett": {
     "pos": "noun",
     "ipa": [
       "veːytt"
     ],
-    "def": [
-      "nature spirit",
-      ""
-    ]
+    "def": "nature spirit"
   },
   "vae'sol": {
     "pos": "noun",
@@ -5405,7 +4298,6 @@
       "veːy'sɒl"
     ],
     "def": [
-      "third day",
       "third day of the week"
     ]
   },
@@ -5414,20 +4306,14 @@
     "ipa": [
       "vɔːɪn"
     ],
-    "def": [
-      "while",
-      ""
-    ]
+    "def": "while"
   },
   "vair": {
     "pos": "noun",
     "ipa": [
       "vɔːɪʀ"
     ],
-    "def": [
-      "month",
-      ""
-    ]
+    "def": "month"
   },
   "vairael": {
     "pos": "noun",
@@ -5435,7 +4321,6 @@
       "vɔːɪreːyl"
     ],
     "def": [
-      "sixth month",
       "sixth month of the year"
     ]
   },
@@ -5445,7 +4330,6 @@
       "vɔːɪrsɪn"
     ],
     "def": [
-      "fourth month",
       "fourth month of the year"
     ]
   },
@@ -5455,9 +4339,8 @@
       "vɔːɪʃ"
     ],
     "def": [
-      "joint",
       "a joint, as between two things",
-      " a joint between bones"
+      "a joint between bones"
     ]
   },
   "vaisa": {
@@ -5466,10 +4349,9 @@
       "vɔːɪʃɔː"
     ],
     "def": [
-      "come",
       "to come together",
-      " to join",
-      " to come to a location as a final destination"
+      "to join",
+      "to come to a location as a final destination"
     ]
   },
   "vais'an": {
@@ -5478,7 +4360,6 @@
       "vɔːɪʃ'æn"
     ],
     "def": [
-      "but also",
       "plural but, indicating more than one"
     ]
   },
@@ -5487,20 +4368,14 @@
     "ipa": [
       "vɔːɪtɔːl"
     ],
-    "def": [
-      "reckoner",
-      ""
-    ]
+    "def": "reckoner"
   },
   "vaith": {
     "pos": "noun",
     "ipa": [
       "vɔːɪθ"
     ],
-    "def": [
-      "sister",
-      ""
-    ]
+    "def": "sister"
   },
   "vaka": {
     "pos": "verb",
@@ -5508,7 +4383,6 @@
       "vɔːkɔː"
     ],
     "def": [
-      "grow",
       "to grow, to change willingly"
     ]
   },
@@ -5517,30 +4391,21 @@
     "ipa": [
       "vɔːkɔːn"
     ],
-    "def": [
-      "growth",
-      ""
-    ]
+    "def": "growth"
   },
   "valeth": {
     "pos": "noun",
     "ipa": [
       "vɔːleːθ"
     ],
-    "def": [
-      "market",
-      ""
-    ]
+    "def": "market"
   },
   "valtyr": {
     "pos": "noun",
     "ipa": [
       "vɔːltyʀ"
     ],
-    "def": [
-      "subversion",
-      ""
-    ]
+    "def": "subversion"
   },
   "valtyri": {
     "pos": "conjunction",
@@ -5548,7 +4413,6 @@
       "vɔːltyri"
     ],
     "def": [
-      "subvert",
       "to subvert"
     ]
   },
@@ -5557,10 +4421,7 @@
     "ipa": [
       "vɔːɒtprɔːʀ"
     ],
-    "def": [
-      "since",
-      ""
-    ]
+    "def": "since"
   },
   "vardi": {
     "pos": "verb",
@@ -5568,9 +4429,8 @@
       "vɔːrdi"
     ],
     "def": [
-      "shield",
       "to shield",
-      " to stand between safety and danger"
+      "to stand between safety and danger"
     ]
   },
   "vardir": {
@@ -5578,20 +4438,14 @@
     "ipa": [
       "vɔːrdiʀ"
     ],
-    "def": [
-      "shield",
-      ""
-    ]
+    "def": "shield"
   },
   "vatradih": {
     "pos": "noun",
     "ipa": [
       "vɔːtrɔːdi"
     ],
-    "def": [
-      "sorrow",
-      ""
-    ]
+    "def": "sorrow"
   },
   "vatraidha": {
     "pos": "verb",
@@ -5599,7 +4453,6 @@
       "vɔːtrɔːɪiðɔː"
     ],
     "def": [
-      "sorrow",
       "to feel sorrow"
     ]
   },
@@ -5608,20 +4461,14 @@
     "ipa": [
       "veːɪl"
     ],
-    "def": [
-      "old",
-      ""
-    ]
+    "def": "old"
   },
   "va'osör": {
     "pos": "conjunction",
     "ipa": [
       "vɔː'ɒʊ̞ʃoʊʀ"
     ],
-    "def": [
-      "neither",
-      ""
-    ]
+    "def": "neither"
   },
   "va'sör": {
     "pos": "conjunction",
@@ -5629,7 +4476,6 @@
       "vɔː'soʊʀ"
     ],
     "def": [
-      "and/or",
       "And/or with inclusive choice allowed"
     ]
   },
@@ -5638,10 +4484,7 @@
     "ipa": [
       "veːkɒ"
     ],
-    "def": [
-      "anger",
-      ""
-    ]
+    "def": "anger"
   },
   "vekoa": {
     "pos": "verb",
@@ -5649,9 +4492,8 @@
       "veːkɒɔː"
     ],
     "def": [
-      "anger",
       "to anger",
-      " to enrage"
+      "to enrage"
     ]
   },
   "vekra": {
@@ -5660,7 +4502,6 @@
       "veːkrɔː"
     ],
     "def": [
-      "light",
       "to light, as on fire or ablaze"
     ]
   },
@@ -5669,40 +4510,28 @@
     "ipa": [
       "ⱱɔːʀ"
     ],
-    "def": [
-      "thing",
-      ""
-    ]
+    "def": "thing"
   },
   "vhatar": {
     "pos": "noun",
     "ipa": [
       "ⱱɔːtɔːʀ"
     ],
-    "def": [
-      "path",
-      ""
-    ]
+    "def": "path"
   },
   "vin": {
     "pos": "conjunction",
     "ipa": [
       "vɪn"
     ],
-    "def": [
-      "if",
-      ""
-    ]
+    "def": "if"
   },
   "visrac": {
     "pos": "preposition",
     "ipa": [
       "viʃrɔːk"
     ],
-    "def": [
-      "when",
-      ""
-    ]
+    "def": "when"
   },
   "visrak": {
     "pos": "verb",
@@ -5710,7 +4539,6 @@
       "viʃrɔːk"
     ],
     "def": [
-      "time",
       "to time, as to act at a specific time: \"to time it properly\""
     ]
   },
@@ -5719,40 +4547,28 @@
     "ipa": [
       "vitʀ"
     ],
-    "def": [
-      "known",
-      ""
-    ]
+    "def": "known"
   },
   "vityr": {
     "pos": "noun",
     "ipa": [
       "vityʀ"
     ],
-    "def": [
-      "paramour",
-      ""
-    ]
+    "def": "paramour"
   },
   "vodh": {
     "pos": "preposition",
     "ipa": [
       "vɒð"
     ],
-    "def": [
-      "upon",
-      ""
-    ]
+    "def": "upon"
   },
   "vorn": {
     "pos": "noun",
     "ipa": [
       "vɒrn"
     ],
-    "def": [
-      "cold",
-      ""
-    ]
+    "def": "cold"
   },
   "voska": {
     "pos": "verb",
@@ -5760,7 +4576,6 @@
       "vɒ̞ʃkɔː"
     ],
     "def": [
-      "go",
       "to go"
     ]
   },
@@ -5770,7 +4585,6 @@
       "vɒui"
     ],
     "def": [
-      "want",
       "to want"
     ]
   },
@@ -5779,10 +4593,7 @@
     "ipa": [
       "vɒuɪn"
     ],
-    "def": [
-      "want",
-      ""
-    ]
+    "def": "want"
   },
   "vran": {
     "pos": "pronoun",
@@ -5790,7 +4601,6 @@
       "vrɔːn"
     ],
     "def": [
-      "it",
       "Draconic formal pronoun"
     ]
   },
@@ -5799,10 +4609,7 @@
     "ipa": [
       "vʌ"
     ],
-    "def": [
-      "so",
-      ""
-    ]
+    "def": "so"
   },
   "vüi": {
     "pos": "verb",
@@ -5810,9 +4617,8 @@
       "voʊi"
     ],
     "def": [
-      "shear",
       "to shear, as an animal",
-      " to remove outer layers of something"
+      "to remove outer layers of something"
     ]
   },
   "vüidh": {
@@ -5822,9 +4628,8 @@
     ],
     "def": [
       "shears",
-      "shears",
-      " scissors",
-      " a tool for cutting paper or fabric or fibers"
+      "scissors",
+      "a tool for cutting paper or fabric or fibers"
     ]
   },
   "vüln": {
@@ -5833,7 +4638,6 @@
       "voʊln"
     ],
     "def": [
-      "bother",
       "bother, minor annoyance, irk"
     ]
   },
@@ -5843,7 +4647,6 @@
       "voʊlnɔː"
     ],
     "def": [
-      "annoy",
       "to annoy, to bother, to irk"
     ]
   },
@@ -5853,9 +4656,8 @@
       "vyri"
     ],
     "def": [
-      "champion",
       "to champion, to defend",
-      " to protect heroically or selflessly"
+      "to protect heroically or selflessly"
     ]
   }
 }
