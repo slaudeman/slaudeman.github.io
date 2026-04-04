@@ -301,12 +301,46 @@
     font-size: 1.05rem;
   }
 
-  .highlight { color: var(--purple-light); font-style: normal; }
+  .highlight { color: inherit; font-style: normal; text-decoration: underline; text-decoration-color: var(--purple-mid); text-underline-offset: 3px; }
 
   @media (max-width: 580px) {
     .search-bar { flex-direction: column; }
     .conj-table { font-size: 0.72rem; }
     .conj-table td, .conj-table th { padding: 4px 7px; }
+  }
+
+  mark {
+    background: rgb(46, 46, 46);
+  }
+
+  #top-btn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--charcoal);
+  border: 1px solid var(--border);
+  color: var(--purple-light);
+  font-size: 1.1rem;
+  cursor: pointer;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s, border-color 0.2s;
+  }
+
+  #top-btn:hover { border-color: var(--purple-mid); }
+  .letter-divider {
+  font-family: 'Cinzel', serif;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--purple-dim);
+  border-bottom: 1px solid var(--border);
+  padding: 1.2rem 0 0.4rem;
+  margin-bottom: 0.6rem;
+  letter-spacing: 0.08em;
+  text-align: center;
   }
 </style>
 </head>
@@ -331,6 +365,8 @@
 
 <div id="results-count"></div>
 <div id="dictionary"></div>
+
+<button id="top-btn" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
 
 <script>
 const TENSE_MORPHEMES = {
@@ -498,7 +534,17 @@ function render() {
     return;
   }
 
-  container.innerHTML = entries.map(([w, d]) => renderEntry(w, d, query)).join('');
+  let html = '';
+  let currentLetter = '';
+  entries.forEach(([w, d]) => {
+    const letter = w[0].toUpperCase();
+    if (letter !== currentLetter) {
+      currentLetter = letter;
+      html += `<div class="letter-divider">${letter}</div>`;
+    }
+    html += renderEntry(w, d, query);
+  });
+  container.innerHTML = html;
 }
 
 async function loadDictionary() {
@@ -558,6 +604,13 @@ const SAMPLE_DICT = {
 };
 
 loadDictionary();
+
+const topBtn = document.getElementById('top-btn');
+window.addEventListener('scroll', () => {
+  const show = window.scrollY > 300;
+  topBtn.style.opacity = show ? '1' : '0';
+  topBtn.style.pointerEvents = show ? 'auto' : 'none';
+});
 </script>
 </body>
 </html>
