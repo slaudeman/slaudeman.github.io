@@ -31,6 +31,10 @@
       <label>Personal Access Token</label>
       <input type="password" id="gh-pat" placeholder="ghp_…" autocomplete="off">
     </div>
+    <div class="field-group">
+      <label>Default Branch</label>
+      <input type="text" id="gh-branch" placeholder="main" value="main" autocomplete="off">
+    </div>
     <div class="auth-error" id="auth-error"></div>
     <button class="btn btn-primary" onclick="authenticate()">Connect to Repository</button>
   </div>
