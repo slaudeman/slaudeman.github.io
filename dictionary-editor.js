@@ -342,9 +342,7 @@ async function confirmPush() {
 
   try {
     // 1. Get default branch
-    const repoRes = await ghRequest('GET', '', null);
-    const repoData = await repoRes.json();
-    const defaultBranch = repoData.default_branch;
+    const defaultBranch = 'main';
 
     // 2. Get latest commit SHA
     const refRes = await ghRequest('GET', `git/refs/heads/${defaultBranch}`, null);
