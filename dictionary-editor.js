@@ -1,6 +1,6 @@
 const POS_OPTIONS = ['noun','verb','adjective','adverb','pronoun','preposition','conjunction','particle','idiom','<TYPE NOT FOUND>'];
 
-let GH = { owner:'', repo:'', path:'', pat:'' };
+let GH = { owner:'', repo:'', path:'', pat:'', branch:'main' };
 let DICT = {};
 let MODIFIED = {};
 let CURRENT_WORD = null;
@@ -37,7 +37,7 @@ async function authenticate() {
         Uint8Array.from(atob(data.content.replace(/\n/g,'')), c => c.charCodeAt(0))
     );
     DICT = JSON.parse(content);
-    GH = { owner, repo, path, pat };
+    GH = { owner, repo, path, pat, branch: document.getElementById('gh-branch').value.trim() || 'main' };
     document.getElementById('auth-overlay').style.display = 'none';
     document.getElementById('repo-meta').textContent = `${owner}/${repo} · ${path}`;
     setStatus(`Loaded ${Object.keys(DICT).length} entries`, 'ok');
@@ -341,10 +341,8 @@ async function confirmPush() {
   errEl.textContent = 'Working…';
 
   try {
-    // 1. Get default branch
-    const defaultBranch = 'main';
-
-    // 2. Get latest commit SHA
+    // 1 + 2. Get default branch SHA
+    const defaultBranch = GH.branch;
     const refRes = await ghRequest('GET', `git/refs/heads/${defaultBranch}`, null);
     const refData = await refRes.json();
     const baseSha = refData.object.sha;
@@ -361,7 +359,8 @@ async function confirmPush() {
 
     // 4. Encode and push
     const sorted = Object.fromEntries(Object.entries(DICT).sort());
-    const content = btoa(String.fromCharCode(...new TextEncoder().encode(JSON.stringify(sorted, null, 2))));
+    const bytes = new TextEncoder().encode(JSON.stringify(sorted, null, 2));
+    const content = btoa(Array.from(bytes, b => String.fromCharCode(b)).join(''));
 
     const pushRes = await ghRequest('PUT', `contents/${GH.path}`, {
       message,
