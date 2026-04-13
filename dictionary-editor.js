@@ -6,6 +6,10 @@ let MODIFIED = {};
 let CURRENT_WORD = null;
 let fileSha = '';
 
+const API_BASE = window.location.hostname === 'localhost'
+  ? 'http://localhost:8001/repos'
+  : 'https://api.github.com/repos';
+
 // ── AUTH ──────────────────────────────────────────────
 async function authenticate() {
   const owner = document.getElementById('gh-owner').value.trim();
@@ -23,11 +27,15 @@ async function authenticate() {
   errEl.textContent = 'Connecting…';
 
   try {
-    const res = await ghGet(`contents/${path}`);
+    const res = await fetch(`${API_BASE}/${owner}/${repo}/contents/${path}`, {
+      headers: { Authorization: `Bearer ${pat}`, Accept: 'application/vnd.github+json' }
+    });
     if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
     const data = await res.json();
     fileSha = data.sha;
-    const content = atob(data.content.replace(/\n/g,''));
+    const content = new TextDecoder('utf-8').decode(
+        Uint8Array.from(atob(data.content.replace(/\n/g,'')), c => c.charCodeAt(0))
+    );
     DICT = JSON.parse(content);
     GH = { owner, repo, path, pat };
     document.getElementById('auth-overlay').style.display = 'none';
@@ -41,21 +49,24 @@ async function authenticate() {
 
 function ghGet(endpoint) {
   const pat = document.getElementById('gh-pat')?.value.trim() || GH.pat;
-  return fetch(`https://api.github.com/repos/${GH.owner}/${GH.repo}/${endpoint}`, {
+  return fetch(`${API_BASE}/${GH.owner}/${GH.repo}/${endpoint}`, {
     headers: { Authorization: `Bearer ${pat}`, Accept: 'application/vnd.github+json' }
   });
 }
 
 function ghRequest(method, endpoint, body) {
-  return fetch(`https://api.github.com/repos/${GH.owner}/${GH.repo}/${endpoint}`, {
+  const opts = {
     method,
     headers: {
       Authorization: `Bearer ${GH.pat}`,
       Accept: 'application/vnd.github+json',
       'Content-Type': 'application/json'
-    },
-    body: JSON.stringify(body)
-  });
+    }
+  };
+  if (body !== null && method !== 'GET') {
+    opts.body = JSON.stringify(body);
+  }
+  return fetch(`${API_BASE}/${GH.owner}/${GH.repo}/${endpoint}`, opts);
 }
 
 // ── STATUS ────────────────────────────────────────────
@@ -330,19 +341,14 @@ async function confirmPush() {
   errEl.textContent = 'Working…';
 
   try {
-    // 1. Get default branch SHA
+    // 1. Get default branch
     const repoRes = await ghRequest('GET', '', null);
-    // Actually fetch repo info
-    const repoData = await (await fetch(`https://api.github.com/repos/${GH.owner}/${GH.repo}`, {
-      headers: { Authorization: `Bearer ${GH.pat}`, Accept: 'application/vnd.github+json' }
-    })).json();
+    const repoData = await repoRes.json();
     const defaultBranch = repoData.default_branch;
 
-    // 2. Get latest commit SHA on default branch
-    const refRes  = await ghRequest('GET', `git/refs/heads/${defaultBranch}`, null);
-    const refData = await (await fetch(`https://api.github.com/repos/${GH.owner}/${GH.repo}/git/refs/heads/${defaultBranch}`, {
-      headers: { Authorization: `Bearer ${GH.pat}`, Accept: 'application/vnd.github+json' }
-    })).json();
+    // 2. Get latest commit SHA
+    const refRes = await ghRequest('GET', `git/refs/heads/${defaultBranch}`, null);
+    const refData = await refRes.json();
     const baseSha = refData.object.sha;
 
     // 3. Create branch
@@ -352,15 +358,13 @@ async function confirmPush() {
     });
     if (!createBranch.ok) {
       const err = await createBranch.json();
-      // Branch may already exist from today — that's fine
       if (!err.message?.includes('already exists')) throw new Error(err.message);
     }
 
-    // 4. Encode updated dictionary
+    // 4. Encode and push
     const sorted = Object.fromEntries(Object.entries(DICT).sort());
-    const content = btoa(unescape(encodeURIComponent(JSON.stringify(sorted, null, 2))));
+    const content = btoa(String.fromCharCode(...new TextEncoder().encode(JSON.stringify(sorted, null, 2))));
 
-    // 5. Commit file to branch
     const pushRes = await ghRequest('PUT', `contents/${GH.path}`, {
       message,
       content,
@@ -375,8 +379,6 @@ async function confirmPush() {
 
     const pushData = await pushRes.json();
     fileSha = pushData.content.sha;
-
-    // 6. Clear modified state
     MODIFIED = {};
     updateModifiedCount();
     closePushModal();
