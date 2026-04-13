@@ -23,6 +23,30 @@ const IMP_ONLY = new Set(['2s', '2p']);
 
 let searchMode = 'both';
 
+function jumpToRoot(root) {
+  document.getElementById('search').value = '';
+  document.getElementById('clear-btn').style.display = 'none';
+  document.getElementById('pos-filter').value = '';
+  searchMode = 'word';
+  document.querySelectorAll('.mode-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.mode === 'word');
+  });
+  render();
+  requestAnimationFrame(() => {
+    const entries = document.querySelectorAll('.entry');
+    for (const el of entries) {
+      const wordEl = el.querySelector('.entry-word');
+      if (wordEl && wordEl.textContent.trim() === root) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        el.style.transition = 'border-color 0.3s';
+        el.style.borderColor = 'var(--blue-mid)';
+        setTimeout(() => { el.style.borderColor = ''; }, 1200);
+        break;
+      }
+    }
+  });
+}
+
 function clearSearch() {
   document.getElementById('search').value = '';
   document.getElementById('clear-btn').style.display = 'none';
@@ -121,17 +145,23 @@ function renderEntry(word, data, query) {
 
   return `
     <div class="entry">
-      <div class="entry-header">
-        <span class="entry-word">${highlightMatch(word, query)}</span>
-        ${data.ipa ? `<span class="entry-ipa">${escapeHtml(Array.isArray(data.ipa) ? data.ipa[0] : data.ipa)}</span>` : ''}
-        ${data.pos ? `<span class="pos-badge ${posClass(data.pos)}">${escapeHtml(data.pos)}</span>` : ''}
-      </div>
-      <ol class="entry-defs">${defsHtml}</ol>
-      ${conjHtml}
+        <div class="entry-header">
+            <span class="entry-word">${highlightMatch(word, query)}</span>
+            ${data.ipa ? `<span class="entry-ipa">${escapeHtml(Array.isArray(data.ipa) ? data.ipa[0] : data.ipa)}</span>` : ''}
+            ${data.pos ? `<span class="pos-badge ${posClass(data.pos)}">${escapeHtml(data.pos)}</span>` : ''}
+        </div>
+        <ol class="entry-defs">${defsHtml}</ol>
+        ${Array.isArray(data.root) && data.root.length > 0 ? `
+        <div class="entry-roots">
+            <span class="roots-label">roots:</span>
+            ${data.root.map(r => `<button class="root-link" data-root="${escapeHtml(r)}" onclick="jumpToRoot(this.dataset.root)">${escapeHtml(r)}</button>`).join('')}
+        </div>` : ''}
+        ${conjHtml}
     <button class="copy-btn" data-word="${escapeHtml(word)}" onclick="copyWord(this)">⎘ copy</button>
     </div>
   `;
 }
+
 
 function toggleConj(btn) {
   const word = btn.dataset.word;

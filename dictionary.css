@@ -385,3 +385,36 @@ text-align: center;
 
 .copy-btn:hover { color: var(--purple-light); }
 .copy-btn.copied { color: var(--accent-adj); }
+
+.entry-roots {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.roots-label {
+  font-size: 0.78rem;
+  color: var(--text-dim);
+  font-style: italic;
+  letter-spacing: 0.05em;
+}
+
+.root-link {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  color: var(--blue-light);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem;
+  padding: 2px 10px;
+  cursor: pointer;
+  transition: all 0.18s;
+}
+
+.root-link:hover {
+  border-color: var(--blue-mid);
+  color: var(--purple-light);
+  background: rgba(122,184,245,0.08);
+}
